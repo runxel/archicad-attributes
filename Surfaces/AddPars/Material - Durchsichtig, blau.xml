@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Par Guid="40597AAD-2631-4AB0-8ADC-94600412BF49" Index="1" Name="Material - Durchsichtig, blau">
+	
+<Parameters>
+		<RealNum Name="C4D_VER_MAIN">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</RealNum>
+		<RealNum Name="C4D_VER_SUB">
+			<Description><![CDATA[""]]></Description>
+			<Value>7</Value>
+		</RealNum>
+		<RealNum Name="C4D_ChCol_Color">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.258823529411765</AVal>
+				<AVal Row="2">0.858823529411765</AVal>
+				<AVal Row="3">0.925490196078431</AVal>
+			</ArrayValues>
+		</RealNum>
+		<RealNum Name="C4D_ChDif_Brightness">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.6</Value>
+		</RealNum>
+		<RealNum Name="C4D_ChDif_Specular">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="C4D_ChTra_State">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</RealNum>
+		<RealNum Name="C4D_ChTra_Brightness">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.815995924411412</Value>
+		</RealNum>
+		<RealNum Name="C4D_ChRfl_State">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<String Name="C4D_ChRfl_RLS">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["1"]]></Value>
+		</String>
+		<String Name="C4D_RLS_RefLayerT_1">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["2"]]></Value>
+		</String>
+		<String Name="C4D_RefLayerT_Type_2">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Beckmann"]]></Value>
+		</String>
+		<String Name="C4D_RefLayerT_RLSS_2">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["8"]]></Value>
+		</String>
+		<RealNum Name="C4D_RLSSS_SpeStrength_8">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+	
+</Parameters>	
+</Par>

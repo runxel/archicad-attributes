@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Städte">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Mehrschichtige Bauteile">
+			<RefID>1129791794</RefID>
+		</Attributes>
+		<Attributes Type="Bemaßungsstandards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Schraffurtypen">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Ebenen">
+			<RefID>1279351090</RefID>
+		</Attributes>
+		<Attributes Type="Ebenen-Kombinationen">
+			<RefID>1279479602</RefID>
+		</Attributes>
+		<Attributes Type="Linientypen">
+			<RefID>1279872562</RefID>
+		</Attributes>
+		<Attributes Type="Oberflächen">
+			<RefID>1296127026</RefID>
+			<Material Idx="1" Name="Durchsichtig, blau">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>40597AAD-2631-4AB0-8ADC-94600412BF49</guid>
+					</OdbRef>
+					<CreaTime>7410</CreaTime>
+					<ModiTime>7412</ModiTime>
+				</OdbObj>
+				<Name>Durchsichtig, blau</Name>
+				<Index>1</Index>
+				<Flags/>
+				<ModiTime>1533541554</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ImageAttributes>
+					<Type>0</Type>
+					<SurfaceColor>
+						<Red>16962</Red>
+						<Green>56283</Green>
+						<Blue>60652</Blue>
+					</SurfaceColor>
+					<AmbientReflection>85</AmbientReflection>
+					<DiffuseReflection>60</DiffuseReflection>
+					<SpecularReflection>0</SpecularReflection>
+					<Transparency>55</Transparency>
+					<Shine>700</Shine>
+					<TransparencyAttenuation>20</TransparencyAttenuation>
+					<SpecularColor>
+						<Red>65535</Red>
+						<Green>65535</Green>
+						<Blue>65535</Blue>
+					</SpecularColor>
+					<EmissionColor>
+						<Red>0</Red>
+						<Green>0</Green>
+						<Blue>0</Blue>
+					</EmissionColor>
+					<EmissionAttenuation>0</EmissionAttenuation>
+				</ImageAttributes>
+				<FillIndex>264</FillIndex>
+				<Name/>
+				<TextStatus>0</TextStatus>
+				<FillColor>-1</FillColor>
+				<XSize>1</XSize>
+				<YSize>1</YSize>
+				<RotationAngle>0</RotationAngle>
+				<AddParData>
+					<Location>AddPars\Material - Durchsichtig, blau.xml</Location>
+				</AddParData>
+			</Material>
+		</Attributes>
+		<Attributes Type="Stifte">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Raumkategorien">
+			<RefID>1380795186</RefID>
+		</Attributes>
+		<Attributes Type="Projektmarker-Stile">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profile">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="HKLSE/MEP-Systeme">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Nutzungsprofile">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Umbau-Überschreibungsstile">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Baustoffe">
+			<RefID>1112359252</RefID>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>
