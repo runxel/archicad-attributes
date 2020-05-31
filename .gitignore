@@ -1,0 +1,9 @@
+# gitignore
+# Runxels Archicad template
+
+*.lnk
+*.url
+
+# ac related
+*.bpn
+*.lck
