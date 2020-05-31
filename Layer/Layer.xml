@@ -1,0 +1,1915 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Städte">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Mehrschichtige Bauteile">
+			<RefID>1129791794</RefID>
+		</Attributes>
+		<Attributes Type="Bemaßungsstandards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Schraffurtypen">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Ebenen">
+			<RefID>1279351090</RefID>
+			<Layer Idx="1" Name="ARCHICAD Layer">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>34EE83DC-59C2-46B5-BE77-4AA01DB7676B</guid>
+					</OdbRef>
+					<CreaTime>4352</CreaTime>
+					<ModiTime>4657</ModiTime>
+				</OdbObj>
+				<Name>ARCHICAD Layer</Name>
+				<Index>1</Index>
+				<Flags/>
+				<ModiTime>1210753918</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2" Name="* Temp Hide *">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>EB166743-B5D8-4858-8056-ADA2F43E4630</guid>
+					</OdbRef>
+					<CreaTime>4357</CreaTime>
+					<ModiTime>4658</ModiTime>
+				</OdbObj>
+				<Name>* Temp Hide *</Name>
+				<Index>2</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3" Name="* Trash *">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>48C3A022-E3A2-4CFC-859A-3E78913061FD</guid>
+					</OdbRef>
+					<CreaTime>4362</CreaTime>
+					<ModiTime>4659</ModiTime>
+				</OdbObj>
+				<Name>* Trash *</Name>
+				<Index>3</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4" Name="000 | _BASICS __________________________________">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D80B82F0-4AA0-4957-AF35-1F251B925ED8</guid>
+					</OdbRef>
+					<CreaTime>4367</CreaTime>
+					<ModiTime>4660</ModiTime>
+				</OdbObj>
+				<Name>000 | _BASICS __________________________________</Name>
+				<Index>4</Index>
+				<Flags>Layer_Hidden|Layer_Locked</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="5" Name="001 | Kataster">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>34865328-8B37-4609-96C2-81F94A295388</guid>
+					</OdbRef>
+					<CreaTime>4372</CreaTime>
+					<ModiTime>4661</ModiTime>
+				</OdbObj>
+				<Name>001 | Kataster</Name>
+				<Index>5</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="6" Name="002 | Höhenkurven">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>EABEC14B-1E14-428B-A635-45B3CD20688E</guid>
+					</OdbRef>
+					<CreaTime>4377</CreaTime>
+					<ModiTime>4662</ModiTime>
+				</OdbObj>
+				<Name>002 | Höhenkurven</Name>
+				<Index>6</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="7" Name="003 | Terrain">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>010F2264-8894-48AB-AB51-594EE22E2192</guid>
+					</OdbRef>
+					<CreaTime>4382</CreaTime>
+					<ModiTime>4663</ModiTime>
+				</OdbObj>
+				<Name>003 | Terrain</Name>
+				<Index>7</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="8" Name="005 | Situation">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D6AEDA03-C401-4E50-9E4B-7FABF1B01592</guid>
+					</OdbRef>
+					<CreaTime>4387</CreaTime>
+					<ModiTime>4664</ModiTime>
+				</OdbObj>
+				<Name>005 | Situation</Name>
+				<Index>8</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="9" Name="006 | Umgebung">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>637C5EA7-6C08-45CF-879B-7D133DC62CA9</guid>
+					</OdbRef>
+					<CreaTime>4392</CreaTime>
+					<ModiTime>4665</ModiTime>
+				</OdbObj>
+				<Name>006 | Umgebung</Name>
+				<Index>9</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="10" Name="007 | Visualisierungsobjekte Umgebung">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>FA8737CC-C1CC-45A5-B9A9-91646074E1B0</guid>
+					</OdbRef>
+					<CreaTime>4397</CreaTime>
+					<ModiTime>4666</ModiTime>
+				</OdbObj>
+				<Name>007 | Visualisierungsobjekte Umgebung</Name>
+				<Index>10</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="11" Name="009 | Raster / Achsen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>94B47B38-D356-4F0A-88C8-5BAB3802B363</guid>
+					</OdbRef>
+					<CreaTime>4402</CreaTime>
+					<ModiTime>4667</ModiTime>
+				</OdbObj>
+				<Name>009 | Raster / Achsen</Name>
+				<Index>11</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="12" Name="010 | _BAUTEILE ________________________________">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>EA611027-0F54-4634-880E-356096DC1726</guid>
+					</OdbRef>
+					<CreaTime>4407</CreaTime>
+					<ModiTime>4668</ModiTime>
+				</OdbObj>
+				<Name>010 | _BAUTEILE ________________________________</Name>
+				<Index>12</Index>
+				<Flags>Layer_Hidden|Layer_Locked</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="13" Name="011 | Aussenwände">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>718A702B-F282-4F77-B397-1F42E3570652</guid>
+					</OdbRef>
+					<CreaTime>4412</CreaTime>
+					<ModiTime>4669</ModiTime>
+				</OdbObj>
+				<Name>011 | Aussenwände</Name>
+				<Index>13</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="14" Name="015 | Innenwände">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>B8F8A971-853E-45BE-BEEF-41E486904D0C</guid>
+					</OdbRef>
+					<CreaTime>4417</CreaTime>
+					<ModiTime>4670</ModiTime>
+				</OdbObj>
+				<Name>015 | Innenwände</Name>
+				<Index>14</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="15" Name="020 | Stützen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>9AC998C3-7977-40ED-94E8-0284D576E78C</guid>
+					</OdbRef>
+					<CreaTime>4422</CreaTime>
+					<ModiTime>4671</ModiTime>
+				</OdbObj>
+				<Name>020 | Stützen</Name>
+				<Index>15</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="16" Name="025 | Unterzüge">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>CE75DC96-4CB3-4BFE-8A65-E9448C20F979</guid>
+					</OdbRef>
+					<CreaTime>4427</CreaTime>
+					<ModiTime>4672</ModiTime>
+				</OdbObj>
+				<Name>025 | Unterzüge</Name>
+				<Index>16</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="17" Name="030 | Decken">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>EC992EC7-0F85-4CF7-8F32-2ACF3479D4CE</guid>
+					</OdbRef>
+					<CreaTime>4432</CreaTime>
+					<ModiTime>4673</ModiTime>
+				</OdbObj>
+				<Name>030 | Decken</Name>
+				<Index>17</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="18" Name="035 | Bodenaufbauten">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>7C3E69F3-24CD-4B0A-82C1-E9693290CAA7</guid>
+					</OdbRef>
+					<CreaTime>4437</CreaTime>
+					<ModiTime>4674</ModiTime>
+				</OdbObj>
+				<Name>035 | Bodenaufbauten</Name>
+				<Index>18</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19" Name="037 | Fundament">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>521DEC8C-6203-4865-AFBD-A9F93CF80349</guid>
+					</OdbRef>
+					<CreaTime>4442</CreaTime>
+					<ModiTime>4675</ModiTime>
+				</OdbObj>
+				<Name>037 | Fundament</Name>
+				<Index>19</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="20" Name="040 | Dächer">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>9ECF60BA-44CA-4626-8DCA-B0ECA3715E12</guid>
+					</OdbRef>
+					<CreaTime>4447</CreaTime>
+					<ModiTime>4676</ModiTime>
+				</OdbObj>
+				<Name>040 | Dächer</Name>
+				<Index>20</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="21" Name="045 | Dachkonstruktionen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3FCCC0F6-DB08-41B7-B935-1B4B9882F29B</guid>
+					</OdbRef>
+					<CreaTime>4452</CreaTime>
+					<ModiTime>4677</ModiTime>
+				</OdbObj>
+				<Name>045 | Dachkonstruktionen</Name>
+				<Index>21</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22" Name="050 | Geländer">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>31C36F14-D807-4D14-89F7-8E3B2CD446F3</guid>
+					</OdbRef>
+					<CreaTime>4457</CreaTime>
+					<ModiTime>4678</ModiTime>
+				</OdbObj>
+				<Name>050 | Geländer</Name>
+				<Index>22</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="23" Name="055 | Treppen / Lift">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>9544559A-9E56-4382-AC32-DB16B28660A2</guid>
+					</OdbRef>
+					<CreaTime>4462</CreaTime>
+					<ModiTime>4679</ModiTime>
+				</OdbObj>
+				<Name>055 | Treppen / Lift</Name>
+				<Index>23</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="24" Name="060 | Möbel Einbau">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>87C8732C-CA52-4796-AB72-6309DC94A7F6</guid>
+					</OdbRef>
+					<CreaTime>4467</CreaTime>
+					<ModiTime>4680</ModiTime>
+				</OdbObj>
+				<Name>060 | Möbel Einbau</Name>
+				<Index>24</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="25" Name="065 | Möbel Einrichtung">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>0AAEBEC0-ABB7-496C-A50D-65B839C936F2</guid>
+					</OdbRef>
+					<CreaTime>4472</CreaTime>
+					<ModiTime>4681</ModiTime>
+				</OdbObj>
+				<Name>065 | Möbel Einrichtung</Name>
+				<Index>25</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="26" Name="070 | Visualisierungsobjekte Innen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>170BDCA0-4ECC-4A85-BD67-3DFC7F5505A1</guid>
+					</OdbRef>
+					<CreaTime>4477</CreaTime>
+					<ModiTime>4682</ModiTime>
+				</OdbObj>
+				<Name>070 | Visualisierungsobjekte Innen</Name>
+				<Index>26</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="27" Name="080 | _RÄUME ___________________________________">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>218A2E0B-13F3-4306-A5EF-6A5FB7378A6B</guid>
+					</OdbRef>
+					<CreaTime>4482</CreaTime>
+					<ModiTime>4683</ModiTime>
+				</OdbObj>
+				<Name>080 | _RÄUME ___________________________________</Name>
+				<Index>27</Index>
+				<Flags>Layer_Hidden|Layer_Locked</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="28" Name="081 | Raumdefinitionen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>5D67491A-42F9-4D27-B832-7087EE4C3735</guid>
+					</OdbRef>
+					<CreaTime>4487</CreaTime>
+					<ModiTime>4684</ModiTime>
+				</OdbObj>
+				<Name>081 | Raumdefinitionen</Name>
+				<Index>28</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="29" Name="085 | Bruttogeschossflächen – BGF">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>EFAC1C43-EF2D-4CB5-A442-B61BC47F1070</guid>
+					</OdbRef>
+					<CreaTime>4492</CreaTime>
+					<ModiTime>4685</ModiTime>
+				</OdbObj>
+				<Name>085 | Bruttogeschossflächen – BGF</Name>
+				<Index>29</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="30" Name="089 | Gebäudevolumen – GV">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>386926D2-1138-4C6E-B752-DE9CF327DE66</guid>
+					</OdbRef>
+					<CreaTime>4497</CreaTime>
+					<ModiTime>4686</ModiTime>
+				</OdbObj>
+				<Name>089 | Gebäudevolumen – GV</Name>
+				<Index>30</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="31" Name="100 | _2D_________________________________________">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>AA45F50A-DDC2-4D29-BE40-CCDC58F3F00F</guid>
+					</OdbRef>
+					<CreaTime>4502</CreaTime>
+					<ModiTime>4687</ModiTime>
+				</OdbObj>
+				<Name>100 | _2D_________________________________________</Name>
+				<Index>31</Index>
+				<Flags>Layer_Hidden|Layer_Locked</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="32" Name="101 | Plangrafik">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>830E3831-E48E-44FE-90C4-48965B6CB243</guid>
+					</OdbRef>
+					<CreaTime>4507</CreaTime>
+					<ModiTime>4688</ModiTime>
+				</OdbObj>
+				<Name>101 | Plangrafik</Name>
+				<Index>32</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="33" Name="111 | Aufsichtslinien sichtbar">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>446E00AB-2F30-40D0-A47A-7D38173DAC95</guid>
+					</OdbRef>
+					<CreaTime>4512</CreaTime>
+					<ModiTime>4689</ModiTime>
+				</OdbObj>
+				<Name>111 | Aufsichtslinien sichtbar</Name>
+				<Index>33</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="34" Name="112 | Aufsichtslinien verdeckt">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A17672D7-9F01-4B1E-B911-4A0945DD45D1</guid>
+					</OdbRef>
+					<CreaTime>4517</CreaTime>
+					<ModiTime>4690</ModiTime>
+				</OdbObj>
+				<Name>112 | Aufsichtslinien verdeckt</Name>
+				<Index>34</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="35" Name="113 | Untersichten verdeckt">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D7450ABE-5BD1-406F-B35C-E3209295F342</guid>
+					</OdbRef>
+					<CreaTime>4522</CreaTime>
+					<ModiTime>4691</ModiTime>
+				</OdbObj>
+				<Name>113 | Untersichten verdeckt</Name>
+				<Index>35</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="36" Name="130 | Abbildungen / Grafiken">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>756450AC-F112-4398-B6AA-F0F6404886B6</guid>
+					</OdbRef>
+					<CreaTime>4527</CreaTime>
+					<ModiTime>4692</ModiTime>
+				</OdbObj>
+				<Name>130 | Abbildungen / Grafiken</Name>
+				<Index>36</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="37" Name="140 | Notizen / Hinweise">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>724AFD53-C880-4A38-9ACD-5E1D47FF6280</guid>
+					</OdbRef>
+					<CreaTime>4532</CreaTime>
+					<ModiTime>4693</ModiTime>
+				</OdbObj>
+				<Name>140 | Notizen / Hinweise</Name>
+				<Index>37</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="38" Name="150 | _BESCHRIFTUNG ___________________________">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>00CE6930-DC44-4CCE-9801-DBEFF09ADB3E</guid>
+					</OdbRef>
+					<CreaTime>4537</CreaTime>
+					<ModiTime>4694</ModiTime>
+				</OdbObj>
+				<Name>150 | _BESCHRIFTUNG ___________________________</Name>
+				<Index>38</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="39" Name="151 | Beschriftungen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>01976A95-1804-426F-BF29-687D011B9AF9</guid>
+					</OdbRef>
+					<CreaTime>4542</CreaTime>
+					<ModiTime>4695</ModiTime>
+				</OdbObj>
+				<Name>151 | Beschriftungen</Name>
+				<Index>39</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="40" Name="155 | Beschriftungen Detail">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>E5B3DDF6-DA15-40E7-828D-3BBD60304A47</guid>
+					</OdbRef>
+					<CreaTime>4547</CreaTime>
+					<ModiTime>4696</ModiTime>
+				</OdbObj>
+				<Name>155 | Beschriftungen Detail</Name>
+				<Index>40</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="41" Name="161 | Bemaßungen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>5DB6A4C3-C930-455C-8039-6C056B22E5F7</guid>
+					</OdbRef>
+					<CreaTime>4552</CreaTime>
+					<ModiTime>4697</ModiTime>
+				</OdbObj>
+				<Name>161 | Bemaßungen</Name>
+				<Index>41</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="42" Name="165 | Bemaßungen Detail">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A768D3B7-B3C8-4E9D-AA61-208FFBFAB446</guid>
+					</OdbRef>
+					<CreaTime>4557</CreaTime>
+					<ModiTime>4698</ModiTime>
+				</OdbObj>
+				<Name>165 | Bemaßungen Detail</Name>
+				<Index>42</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="43" Name="170 | Etiketten">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>794CA1F4-20F2-4721-AC43-075A10E26182</guid>
+					</OdbRef>
+					<CreaTime>4562</CreaTime>
+					<ModiTime>4699</ModiTime>
+				</OdbObj>
+				<Name>170 | Etiketten</Name>
+				<Index>43</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="44" Name="200 | _MARKER___________________________________">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>58195A49-8E03-4E8B-B52B-5565625ED65E</guid>
+					</OdbRef>
+					<CreaTime>4567</CreaTime>
+					<ModiTime>4700</ModiTime>
+				</OdbObj>
+				<Name>200 | _MARKER___________________________________</Name>
+				<Index>44</Index>
+				<Flags>Layer_Hidden|Layer_Locked</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="45" Name="201 | Schnittlinien">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>4B6059CF-D313-4394-A424-8F44655DBB38</guid>
+					</OdbRef>
+					<CreaTime>4572</CreaTime>
+					<ModiTime>4701</ModiTime>
+				</OdbObj>
+				<Name>201 | Schnittlinien</Name>
+				<Index>45</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="46" Name="202 | Schnittlinien – Referenziert">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>06E6CC7E-7681-4956-8083-BA136AD5BC5C</guid>
+					</OdbRef>
+					<CreaTime>4577</CreaTime>
+					<ModiTime>4702</ModiTime>
+				</OdbObj>
+				<Name>202 | Schnittlinien – Referenziert</Name>
+				<Index>46</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="47" Name="205 | Ansichtslinien">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>72368DC8-6C4F-49A3-8885-82C7C88C95FE</guid>
+					</OdbRef>
+					<CreaTime>4582</CreaTime>
+					<ModiTime>4703</ModiTime>
+				</OdbObj>
+				<Name>205 | Ansichtslinien</Name>
+				<Index>47</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="48" Name="206 | Ansichtslinien – Referenziert">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>C85495C4-CE2D-42F7-8BC8-BD15A3D22B36</guid>
+					</OdbRef>
+					<CreaTime>4587</CreaTime>
+					<ModiTime>4704</ModiTime>
+				</OdbObj>
+				<Name>206 | Ansichtslinien – Referenziert</Name>
+				<Index>48</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="49" Name="210 | Innenansichts-Marker">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6856F4F6-CF99-4FDC-B184-5A133747186A</guid>
+					</OdbRef>
+					<CreaTime>4592</CreaTime>
+					<ModiTime>4705</ModiTime>
+				</OdbObj>
+				<Name>210 | Innenansichts-Marker</Name>
+				<Index>49</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="50" Name="215 | Arbeitsblatt-Marker">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>ADAC79EF-FBDB-4EF3-8C65-B2816160D229</guid>
+					</OdbRef>
+					<CreaTime>4597</CreaTime>
+					<ModiTime>4706</ModiTime>
+				</OdbObj>
+				<Name>215 | Arbeitsblatt-Marker</Name>
+				<Index>50</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="51" Name="220 | Detail-Marker">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>FDD0CF45-7C64-4984-AB5B-6FA0117EBF06</guid>
+					</OdbRef>
+					<CreaTime>4602</CreaTime>
+					<ModiTime>4707</ModiTime>
+				</OdbObj>
+				<Name>220 | Detail-Marker</Name>
+				<Index>51</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="52" Name="225 | Änderungs-Marker">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>08E9AC98-6A21-4AC0-A7C9-117BC854DBD7</guid>
+					</OdbRef>
+					<CreaTime>4607</CreaTime>
+					<ModiTime>4708</ModiTime>
+				</OdbObj>
+				<Name>225 | Änderungs-Marker</Name>
+				<Index>52</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="53" Name="300 | _DIVERSES__________________________________">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6F5C6675-DD2D-4B4F-978C-1D1CE9E149BD</guid>
+					</OdbRef>
+					<CreaTime>4612</CreaTime>
+					<ModiTime>4709</ModiTime>
+				</OdbObj>
+				<Name>300 | _DIVERSES__________________________________</Name>
+				<Index>53</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>0</ConnectionClassId>
+			</Layer>
+			<Layer Idx="54" Name="500 | Hilfskonstruktionen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>C90638F9-DCE6-4AC1-AF0F-D10058429607</guid>
+					</OdbRef>
+					<CreaTime>4617</CreaTime>
+					<ModiTime>4710</ModiTime>
+				</OdbObj>
+				<Name>500 | Hilfskonstruktionen</Name>
+				<Index>54</Index>
+				<Flags>Layer_Hidden|Layer_ForceToWire</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="55" Name="600 | Module">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A233D44A-4A21-4877-B2F4-06233ABFEDB1</guid>
+					</OdbRef>
+					<CreaTime>4622</CreaTime>
+					<ModiTime>4711</ModiTime>
+				</OdbObj>
+				<Name>600 | Module</Name>
+				<Index>55</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="56" Name="700 | SEO">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>EF3DB736-C55D-458A-A922-A14825A73C8C</guid>
+					</OdbRef>
+					<CreaTime>4627</CreaTime>
+					<ModiTime>4712</ModiTime>
+				</OdbObj>
+				<Name>700 | SEO</Name>
+				<Index>56</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="57" Name="900 | _LAYOUT____________________________________">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>CA4C3D42-5016-48E7-9F37-171E45EEC039</guid>
+					</OdbRef>
+					<CreaTime>4632</CreaTime>
+					<ModiTime>4713</ModiTime>
+				</OdbObj>
+				<Name>900 | _LAYOUT____________________________________</Name>
+				<Index>57</Index>
+				<Flags>Layer_Hidden|Layer_Locked</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="58" Name="901 | Layout Beschriftungen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D817A9CE-0B85-4871-BB96-B27B0EFFBC34</guid>
+					</OdbRef>
+					<CreaTime>4637</CreaTime>
+					<ModiTime>4714</ModiTime>
+				</OdbObj>
+				<Name>901 | Layout Beschriftungen</Name>
+				<Index>58</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="59" Name="905 | Layout Plankopf">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BE03834A-C2E0-48B2-9E7D-C135C54E7CCB</guid>
+					</OdbRef>
+					<CreaTime>4642</CreaTime>
+					<ModiTime>4715</ModiTime>
+				</OdbObj>
+				<Name>905 | Layout Plankopf</Name>
+				<Index>59</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="60" Name="910 | Layout Planrahmen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>CE7EE764-9142-4E73-9348-349A577AA530</guid>
+					</OdbRef>
+					<CreaTime>4647</CreaTime>
+					<ModiTime>4716</ModiTime>
+				</OdbObj>
+				<Name>910 | Layout Planrahmen</Name>
+				<Index>60</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="61" Name="915 | Layout Zeichnungen">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>22511691-9DA2-4B19-95CB-02D5E1880641</guid>
+					</OdbRef>
+					<CreaTime>4652</CreaTime>
+					<ModiTime>4717</ModiTime>
+				</OdbObj>
+				<Name>915 | Layout Zeichnungen</Name>
+				<Index>61</Index>
+				<Flags>Layer_Hidden</Flags>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+		</Attributes>
+		<Attributes Type="Ebenen-Kombinationen">
+			<RefID>1279479602</RefID>
+			<LayerCombination Idx="1" Name="* Alle an">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>88CBD086-4DC3-47DC-8431-A0551E243332</guid>
+					</OdbRef>
+					<CreaTime>4342</CreaTime>
+					<ModiTime>4655</ModiTime>
+				</OdbObj>
+				<Name>* Alle an</Name>
+				<Index>1</Index>
+				<Flags/>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<LayerIndex>1</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>2</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>3</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>4</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>5</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>6</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>7</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>8</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>9</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>10</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>11</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>12</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>13</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>14</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>15</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>16</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>17</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>18</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>19</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>20</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>21</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>22</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>23</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>24</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>25</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>26</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>27</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>28</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>29</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>30</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>31</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>32</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>33</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>34</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>35</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>36</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>37</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>38</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>39</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>40</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>41</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>42</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>43</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>44</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>45</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>46</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>47</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>48</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>49</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>50</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>51</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>52</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>53</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>0</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>54</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>true</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>55</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>56</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>57</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>58</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>59</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>60</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>61</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+			</LayerCombination>
+			<LayerCombination Idx="2" Name="* Alle aus">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>A5FE31F5-E777-4F9A-B2F2-95316E58BC09</guid>
+					</OdbRef>
+					<CreaTime>4347</CreaTime>
+					<ModiTime>4656</ModiTime>
+				</OdbObj>
+				<Name>* Alle aus</Name>
+				<Index>2</Index>
+				<Flags/>
+				<ModiTime>1574263249</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<LayerIndex>1</LayerIndex>
+				<LayerStatus>
+					<Hidden>false</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>2</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>3</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>4</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>5</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>6</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>7</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>8</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>9</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>10</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>11</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>12</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>13</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>14</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>15</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>16</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>17</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>18</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>19</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>20</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>21</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>22</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>23</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>24</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>25</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>26</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>27</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>28</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>29</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>30</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>31</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>32</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>33</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>34</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>35</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>36</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>37</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>38</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>39</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>40</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>41</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>42</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>43</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>44</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>45</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>46</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>47</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>48</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>49</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>50</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>51</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>52</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>53</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>0</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>54</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>true</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>55</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>56</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>57</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>true</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>58</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>59</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>60</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+				<LayerIndex>61</LayerIndex>
+				<LayerStatus>
+					<Hidden>true</Hidden>
+					<Locked>false</Locked>
+					<ForceToWire>false</ForceToWire>
+					<ConnectionClassId>1</ConnectionClassId>
+				</LayerStatus>
+			</LayerCombination>
+		</Attributes>
+		<Attributes Type="Linientypen">
+			<RefID>1279872562</RefID>
+		</Attributes>
+		<Attributes Type="Oberflächen">
+			<RefID>1296127026</RefID>
+		</Attributes>
+		<Attributes Type="Stifte">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Raumkategorien">
+			<RefID>1380795186</RefID>
+		</Attributes>
+		<Attributes Type="Projektmarker-Stile">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profile">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="HKLSE/MEP-Systeme">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Nutzungsprofile">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Umbau-Überschreibungsstile">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Baustoffe">
+			<RefID>1112359252</RefID>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>
