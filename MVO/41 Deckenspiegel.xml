@@ -1,0 +1,943 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DisplayandOutputCombinations>
+	<Version>20</Version>
+	<DisplayOptionCombination>
+		<Name>41 Deckenspiegel</Name>
+		<DrawingBeamMethod>0</DrawingBeamMethod>
+		<DrawingRoofShellMethod>0</DrawingRoofShellMethod>
+		<ShowDoorObject>0</ShowDoorObject>
+		<ShowWindowObject>-1</ShowWindowObject>
+		<ShowSkylightObject>-1</ShowSkylightObject>
+		<ColumnSymbol>1</ColumnSymbol>
+		<ShowMarkUpItems>1</ShowMarkUpItems>
+		<FloorPlanOption>1</FloorPlanOption>
+		<HideZoneStamp>0</HideZoneStamp>
+		<LibraryGlobal>
+			<LibraryGlobalName>LibraryGlobals13</LibraryGlobalName>
+			<LibraryGlobalGuid>9137124A-DDF2-4A06-A532-5FC0CE873258</LibraryGlobalGuid>
+			<LibraryGlobalSupersetGuid>00000000-0000-0000-0000-000000000000</LibraryGlobalSupersetGuid>
+			<Parameters>
+		<Length Name="A">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Length>
+		<Length Name="B">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Length>
+		<Boolean Name="AC_Ceiling_Plan">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Integer Name="iDetlevelMVO2D">
+			<Description><![CDATA[""]]></Description>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iDetlevelMVO3D">
+			<Description><![CDATA[""]]></Description>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iLSymbol">
+			<Description><![CDATA[""]]></Description>
+			<Value>3</Value>
+		</Integer>
+		<Boolean Name="showMEPConnect">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+
+		<!-- AccessoriesHideShow: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="AccessoriesHideShow">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="bShowKnobs">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Boolean Name="bShowTaps">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Boolean Name="bShowDWHandles">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+
+		<!-- ElevatorCarAndDoor: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="ElevatorCarAndDoor">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="bshowElevatorCar3D">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Integer Name="iElevDoorVis">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+
+		<!-- libraryGlobalsOld: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="libraryGlobalsOld">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="hideBKnobs">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="hideBTaps">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="hideBDoorHandles">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="showBOpLine3D">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Boolean>
+		<PenColor Name="gs_opLinePen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</PenColor>
+		<Integer Name="iOplinePen">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="gs_iSwingType">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>2</Value>
+		</Integer>
+		<LineType Name="gs_swingLineType">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</LineType>
+
+		<!-- minimal_space_globals: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="minimal_space_globals">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="showBMinSpace">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Boolean>
+		<FillPattern Name="MSFillType">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>24</Value>
+		</FillPattern>
+		<PenColor Name="MSFillPen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>4</Value>
+		</PenColor>
+		<Integer Name="iMSFillPen">
+			<Description><![CDATA[""]]></Description>
+			<Value>4</Value>
+		</Integer>
+		<PenColor Name="MSFillBackPen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>19</Value>
+		</PenColor>
+		<Integer Name="iMSFillBackPen">
+			<Description><![CDATA[""]]></Description>
+			<Value>19</Value>
+		</Integer>
+		<LineType Name="MSContLineType">
+			<Description><![CDATA[""]]></Description>
+			<Value>4</Value>
+		</LineType>
+		<PenColor Name="MSContLinePen">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</PenColor>
+		<Integer Name="iMSContLinePen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Integer>
+		<Boolean Name="bShowAddHotspots">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="AC_bShowAddHotspotsForIS">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Boolean Name="bHideOplineStyle">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+
+		<!-- GlobalsForBothDW: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="GlobalsForBothDW">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Integer Name="gs_opline_type_m">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="gs_opline_type_m_out">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="gs_opline_style_m">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Integer>
+
+		<!-- GlobalsForDoors: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="GlobalsForDoors">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="bEnableSimpleLine">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bControlForSlidingDoor">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="D_showBOpLine3D">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Integer Name="D_iSwingType">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>2</Value>
+		</Integer>
+		<Integer Name="D_iSlidingType">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Integer>
+		<LineType Name="D_swingLineType">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</LineType>
+		<PenColor Name="D_opLinePen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</PenColor>
+		<Integer Name="D_iOpLinePen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Integer>
+		<Boolean Name="bEnableGlazingLineOptions">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Boolean Name="bShowGlazingLine">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<PenColor Name="glazingLinePen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</PenColor>
+		<Integer Name="iGlazingLinePen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+
+		<!-- GlobalsForWindows: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="GlobalsForWindows">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="bControlForSlidingWindow">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="W_showBOpLine3D">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Integer Name="W_iSwingType">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>2</Value>
+		</Integer>
+		<Integer Name="W_iSlidingType">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Integer>
+		<LineType Name="W_swingLineType">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</LineType>
+		<PenColor Name="W_opLinePen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</PenColor>
+		<Integer Name="W_iOpLinePen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Integer>
+
+		<!-- GlobalsForSkylights: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="GlobalsForSkylights">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="S_showBOpLine3D">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Boolean Name="bInitialized_S_showBOpLine3D">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+
+		<!-- GlobalsForDACH: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="GlobalsForDACH">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="bEnableSecondaryOpLineTypes">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bEnableWindowHandle">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<LineType Name="D_swingLineType2">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>4</Value>
+		</LineType>
+		<LineType Name="W_swingLineType2">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>4</Value>
+		</LineType>
+		<Integer Name="D_iOpLineType2">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>2</Value>
+		</Integer>
+		<Integer Name="W_iOpLineType2">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>2</Value>
+		</Integer>
+		<Boolean Name="D_showBOpLine2D">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Boolean Name="W_showBOpLine2D">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+
+		<!-- FireRatingParams: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="FireRatingParams">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="bEnableNEDFireRating">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<Boolean Name="bShowFireRating">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+		<PenColor Name="fireRatingSymbPen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>4</Value>
+		</PenColor>
+		<Integer Name="iFireRatingSymbPen">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>4</Value>
+		</Integer>
+			</Parameters>
+			<LibraryGlobalName>LG_DWSymbSettings</LibraryGlobalName>
+			<LibraryGlobalGuid>5569FF32-72DE-4C32-A8E9-A7462B53E894</LibraryGlobalGuid>
+			<LibraryGlobalSupersetGuid>00000000-0000-0000-0000-000000000000</LibraryGlobalSupersetGuid>
+			<Parameters>
+		<Length Name="A">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Length>
+		<Length Name="B">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Length>
+		<Boolean Name="AC_bShowAddHotspotsForIS">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>0</Value>
+		</Boolean>
+
+		<!-- _forWindows: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="_forWindows">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="bShowDlev2DForWindows">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowDlev3DForWindows">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowDlevSEForWindows">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowDlevRevForWindows">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowCasingOnSymbolWindows">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Boolean>
+		<Integer Name="iWindowMVODetlevel2D">
+			<Description><![CDATA[""]]></Description>
+			<Value>11</Value>
+		</Integer>
+		<Integer Name="iWindowMVODetlevel3D">
+			<Description><![CDATA[""]]></Description>
+			<Value>7</Value>
+		</Integer>
+		<Integer Name="iWindowMVODetlevelSE">
+			<Description><![CDATA[""]]></Description>
+			<Value>12</Value>
+		</Integer>
+		<Boolean Name="bWindowMVODetlevelReveal">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Boolean>
+		<Boolean Name="bWindowCasingOnSymbol">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+
+		<!-- _forDoors: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="_forDoors">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="bShowDlev2DForDoors">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowDlev3DForDoors">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowDlevSEForDoors">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowDlevRevForDoors">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowCasingOnSymbolDoors">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Boolean>
+		<Integer Name="iDoorMVODetlevel2D">
+			<Description><![CDATA[""]]></Description>
+			<Value>13</Value>
+		</Integer>
+		<Integer Name="iDoorMVODetlevel3D">
+			<Description><![CDATA[""]]></Description>
+			<Value>7</Value>
+		</Integer>
+		<Integer Name="iDoorMVODetlevelSE">
+			<Description><![CDATA[""]]></Description>
+			<Value>12</Value>
+		</Integer>
+		<Boolean Name="bDoorMVODetlevelReveal">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Boolean>
+		<Boolean Name="bDoorCasingOnSymbol">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+
+		<!-- _forSkylights: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="_forSkylights">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Boolean Name="bShowDlev2DForSkylights">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowDlev3DForSkylights">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Boolean Name="bShowDlevSEForSkylights">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Boolean>
+		<Integer Name="iSkylightMVODetlevel2D">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="iSkylightMVODetlevel3D">
+			<Description><![CDATA[""]]></Description>
+			<Value>7</Value>
+		</Integer>
+		<Integer Name="iSkylightMVODetlevelSE">
+			<Description><![CDATA[""]]></Description>
+			<Value>11</Value>
+		</Integer>
+		<String Name="LibraryLangCode">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value><![CDATA["GER"]]></Value>
+		</String>
+			</Parameters>
+			<LibraryGlobalName>Treppenbibliothek Global</LibraryGlobalName>
+			<LibraryGlobalGuid>122DE75C-895F-46D9-9487-42AB7D450991</LibraryGlobalGuid>
+			<LibraryGlobalSupersetGuid>00000000-0000-0000-0000-000000000000</LibraryGlobalSupersetGuid>
+			<Parameters>
+		<Length Name="A">
+			<Description><![CDATA[""]]></Description>
+			<Fix/>
+			<Value>1</Value>
+		</Length>
+		<Length Name="B">
+			<Description><![CDATA[""]]></Description>
+			<Fix/>
+			<Value>1</Value>
+		</Length>
+			</Parameters>
+			<LibraryGlobalName>StairAndRailSymbGlobSetts</LibraryGlobalName>
+			<LibraryGlobalGuid>4A4B676E-4F20-442E-9D34-AA6585C38C00</LibraryGlobalGuid>
+			<LibraryGlobalSupersetGuid>00000000-0000-0000-0000-000000000000</LibraryGlobalSupersetGuid>
+			<Parameters>
+		<Length Name="A">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Length>
+		<Length Name="B">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Length>
+
+		<!-- tStairSymbGlobals: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="tStairSymbGlobals">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Integer Name="iShowTread">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowGridFill">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="iShowNosing">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowLanding">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowUnderStructureFill">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowSideStructureFill">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="iShowDrain">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Boolean Name="bShowGridContour">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<Integer Name="iShowWalkLine">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Boolean Name="bShowWLLanding">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Boolean>
+		<Integer Name="iShowWLStart">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="iShowWLEnd">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowNumbering">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowTreadSymbol">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowBeamStructure">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowSideStructure">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowCantiStructure">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowMonolithStructure">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowMonolithGoing">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="iShowMonolithNosing">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="iShowMonolithLanding">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowMonolithConnection">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+
+		<!-- tRailingSymbGlobals: PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK ===== PARAMETER BLOCK -->
+
+		<Title Name="tRailingSymbGlobals">
+			<Description><![CDATA[""]]></Description>
+		</Title>
+		<Integer Name="iShowPosts">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowTopRail">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowHandRails">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowRails">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowInnerPosts">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowBalusters">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<Integer Name="iShowPanels">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Child/>
+			</Flags>
+			<Value>3</Value>
+		</Integer>
+		<String Name="LibraryLangCode">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value><![CDATA["GER"]]></Value>
+		</String>
+			</Parameters>
+		</LibraryGlobal>
+		<Stair3DDetailLevel>1</Stair3DDetailLevel>
+		<Stair2DDisplayMode>2</Stair2DDisplayMode>
+		<StairFloorPlanComponentFlags>240</StairFloorPlanComponentFlags>
+		<StairReflectedComponentFlags>481</StairReflectedComponentFlags>
+		<StairSchemeSurface>24</StairSchemeSurface>
+		<StairSchemeCutLine>1</StairSchemeCutLine>
+		<StairSchemeCutLinePen>1</StairSchemeCutLinePen>
+		<StairSchemeUncutLine>1</StairSchemeUncutLine>
+		<StairSchemeUncutLinePen>1</StairSchemeUncutLinePen>
+		<Railing3DDetailLevel>3</Railing3DDetailLevel>
+		<Railing2DDisplayComponentsFlag>0</Railing2DDisplayComponentsFlag>
+		<RailingSchemeSurface>24</RailingSchemeSurface>
+		<RailingSchemeCutLine>1</RailingSchemeCutLine>
+		<RailingSchemeCutLinePen>1</RailingSchemeCutLinePen>
+		<RailingSchemeUncutLine>1</RailingSchemeUncutLine>
+		<RailingSchemeUncutLinePen>1</RailingSchemeUncutLinePen>
+		<CWFrameDetailLevel>2</CWFrameDetailLevel>
+		<CWPanelDetailLevel>2</CWPanelDetailLevel>
+		<CWJunctionDetailLevel>2</CWJunctionDetailLevel>
+		<CWAccessoryDetailLevel>2</CWAccessoryDetailLevel>
+		<OpeningViewOption>0</OpeningViewOption>
+		<OpeningShowAxisLine>1</OpeningShowAxisLine>
+		<DrawingSlabMethod>2</DrawingSlabMethod>
+		<ColuHiddenlineUnderSlabs>1</ColuHiddenlineUnderSlabs>
+		<BeamHiddenlineUnderSlabs>1</BeamHiddenlineUnderSlabs>
+		<BeamViewOption>0</BeamViewOption>
+		<ColumnViewOption>0</ColumnViewOption>
+	</DisplayOptionCombination>
+</DisplayandOutputCombinations>
