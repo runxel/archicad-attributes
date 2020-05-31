@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Städte">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Mehrschichtige Bauteile">
+			<RefID>1129791794</RefID>
+		</Attributes>
+		<Attributes Type="Bemaßungsstandards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Schraffurtypen">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Ebenen">
+			<RefID>1279351090</RefID>
+		</Attributes>
+		<Attributes Type="Ebenen-Kombinationen">
+			<RefID>1279479602</RefID>
+		</Attributes>
+		<Attributes Type="Linientypen">
+			<RefID>1279872562</RefID>
+			<LineType Idx="1" Name="Volllinie">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>BB2E6BB0-92C7-47E0-8172-275E475505F5</guid>
+					</OdbRef>
+					<CreaTime>4834</CreaTime>
+					<ModiTime>4836</ModiTime>
+				</OdbObj>
+				<Name>Volllinie</Name>
+				<Index>1</Index>
+				<Flags/>
+				<ModiTime>1401095270</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>1999999991808</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>SolidLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>1999999991808</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="2" Name="Punkt 1mm">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>9429C17D-71A1-48C4-BB2D-AA34C9018620</guid>
+					</OdbRef>
+					<CreaTime>4839</CreaTime>
+					<ModiTime>4841</ModiTime>
+				</OdbObj>
+				<Name>Punkt 1mm</Name>
+				<Index>2</Index>
+				<Flags/>
+				<ModiTime>1574256571</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>1</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="3" Name="Punkt 2mm">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>667CFF9C-F1DE-4CD1-92A9-62DFDAA1CB98</guid>
+					</OdbRef>
+					<CreaTime>4844</CreaTime>
+					<ModiTime>4846</ModiTime>
+				</OdbObj>
+				<Name>Punkt 2mm</Name>
+				<Index>3</Index>
+				<Flags/>
+				<ModiTime>1574256571</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>2</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="4" Name="Strich 2/1mm">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>EA466A85-CF47-46E1-8224-4A473640B87E</guid>
+					</OdbRef>
+					<CreaTime>4849</CreaTime>
+					<ModiTime>4851</ModiTime>
+				</OdbObj>
+				<Name>Strich 2/1mm</Name>
+				<Index>4</Index>
+				<Flags/>
+				<ModiTime>1574256571</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>3</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>2</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="5" Name="Strich 3/1mm Kanten">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>BD59DA2A-5C29-4186-BF57-71CA584006C8</guid>
+					</OdbRef>
+					<CreaTime>4854</CreaTime>
+					<ModiTime>4856</ModiTime>
+				</OdbObj>
+				<Name>Strich 3/1mm Kanten</Name>
+				<Index>5</Index>
+				<Flags/>
+				<ModiTime>1224868801</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>4</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>3</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="6" Name="Strich 6/1mm">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>B730A39E-4031-4D6E-8995-5C134714D707</guid>
+					</OdbRef>
+					<CreaTime>4859</CreaTime>
+					<ModiTime>4861</ModiTime>
+				</OdbObj>
+				<Name>Strich 6/1mm</Name>
+				<Index>6</Index>
+				<Flags/>
+				<ModiTime>1224868801</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>7</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>6</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="7" Name="Strich 6/2mm Terrain">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>D2413398-EB07-40F1-81B4-6CC5642C79E9</guid>
+					</OdbRef>
+					<CreaTime>4864</CreaTime>
+					<ModiTime>4866</ModiTime>
+				</OdbObj>
+				<Name>Strich 6/2mm Terrain</Name>
+				<Index>7</Index>
+				<Flags/>
+				<ModiTime>1224095733</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>8</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>6</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="8" Name="Strich 9/3mm">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>310E0D0B-966C-404B-B8F7-036528DE10F5</guid>
+					</OdbRef>
+					<CreaTime>4869</CreaTime>
+					<ModiTime>4871</ModiTime>
+				</OdbObj>
+				<Name>Strich 9/3mm</Name>
+				<Index>8</Index>
+				<Flags/>
+				<ModiTime>1224868801</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>12</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>9</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="9" Name="Strichpunkt 3/1/1mm Achsen">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>6D3AC5F7-7CE8-4A9D-A84E-CF539D6723DE</guid>
+					</OdbRef>
+					<CreaTime>4874</CreaTime>
+					<ModiTime>4876</ModiTime>
+				</OdbObj>
+				<Name>Strichpunkt 3/1/1mm Achsen</Name>
+				<Index>9</Index>
+				<Flags/>
+				<ModiTime>1224095733</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>5</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>3</CenterLineLength>
+						<CenterLineBegin>4</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="10" Name="Strichpunkt 6/1/1mm">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>DA7341D9-C895-430F-9D40-3F26C6E7393A</guid>
+					</OdbRef>
+					<CreaTime>4879</CreaTime>
+					<ModiTime>4881</ModiTime>
+				</OdbObj>
+				<Name>Strichpunkt 6/1/1mm</Name>
+				<Index>10</Index>
+				<Flags/>
+				<ModiTime>1224868801</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>8</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>6</CenterLineLength>
+						<CenterLineBegin>7</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="11" Name="Strichpunkt 6/2/2mm Schnitt">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>5BE10CB0-2767-4B1D-85A1-BDB0827D3735</guid>
+					</OdbRef>
+					<CreaTime>4884</CreaTime>
+					<ModiTime>4886</ModiTime>
+				</OdbObj>
+				<Name>Strichpunkt 6/2/2mm Schnitt</Name>
+				<Index>11</Index>
+				<Flags/>
+				<ModiTime>1224095733</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>10</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>6</CenterLineLength>
+						<CenterLineBegin>8</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="12" Name="Strichpunkt 9/2/2mm">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>8E58D53B-4403-4FB0-9531-38F127AAC472</guid>
+					</OdbRef>
+					<CreaTime>4889</CreaTime>
+					<ModiTime>4891</ModiTime>
+				</OdbObj>
+				<Name>Strichpunkt 9/2/2mm</Name>
+				<Index>12</Index>
+				<Flags/>
+				<ModiTime>1224868801</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>13</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>9</CenterLineLength>
+						<CenterLineBegin>11</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="13" Name="Doppelstrich 9/2/2mm Baulinie">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>9DF73DAF-0CA8-44D3-89FE-32F12F554ABA</guid>
+					</OdbRef>
+					<CreaTime>4894</CreaTime>
+					<ModiTime>4896</ModiTime>
+				</OdbObj>
+				<Name>Doppelstrich 9/2/2mm Baulinie</Name>
+				<Index>13</Index>
+				<Flags/>
+				<ModiTime>1224095733</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>15</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>9</CenterLineLength>
+						<CenterLineBegin>11</CenterLineBegin>
+						<CenterLineLength>2</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="14" Name="Doppelstrich 9/2/1/2mm ACDC">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>BE6EEF55-3528-465C-9828-1C470A971DCD</guid>
+					</OdbRef>
+					<CreaTime>4899</CreaTime>
+					<ModiTime>4901</ModiTime>
+				</OdbObj>
+				<Name>Doppelstrich 9/2/1/2mm ACDC</Name>
+				<Index>14</Index>
+				<Flags/>
+				<ModiTime>1224095733</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>18</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>9</CenterLineLength>
+						<CenterLineBegin>11</CenterLineBegin>
+						<CenterLineLength>2</CenterLineLength>
+						<CenterLineBegin>14</CenterLineBegin>
+						<CenterLineLength>2</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="15" Name="Strichdoppelpunkt 4/1/1mm">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>B1632F2B-1E65-4ABA-B862-FA018EF03BC8</guid>
+					</OdbRef>
+					<CreaTime>4933</CreaTime>
+					<ModiTime>4937</ModiTime>
+				</OdbObj>
+				<Name>Strichdoppelpunkt 4/1/1mm</Name>
+				<Index>15</Index>
+				<Flags/>
+				<ModiTime>1574258430</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>7</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>4</CenterLineLength>
+						<CenterLineBegin>5</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>6</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+		</Attributes>
+		<Attributes Type="Oberflächen">
+			<RefID>1296127026</RefID>
+		</Attributes>
+		<Attributes Type="Stifte">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Raumkategorien">
+			<RefID>1380795186</RefID>
+		</Attributes>
+		<Attributes Type="Projektmarker-Stile">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profile">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="HKLSE/MEP-Systeme">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Nutzungsprofile">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Umbau-Überschreibungsstile">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Baustoffe">
+			<RefID>1112359252</RefID>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>

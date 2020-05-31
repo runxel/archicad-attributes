@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Cities">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Composite Structures">
+			<RefID>1129791794</RefID>
+		</Attributes>
+		<Attributes Type="Dimension Standards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Fill Types">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Layers">
+			<RefID>1279351090</RefID>
+		</Attributes>
+		<Attributes Type="Layer Combinations">
+			<RefID>1279479602</RefID>
+		</Attributes>
+		<Attributes Type="Line Types">
+			<RefID>1279872562</RefID>
+			<LineType Idx="1" Name="ACAD_ISO02W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>872BACFB-737F-4018-865C-5A74B4D6A0D4</guid>
+					</OdbRef>
+					<CreaTime>54690</CreaTime>
+					<ModiTime>54692</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO02W100</Name>
+				<Index>1</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.381</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="2" Name="ACAD_ISO03W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>381D29C7-6F5D-4BC3-BC0E-67DA689AB098</guid>
+					</OdbRef>
+					<CreaTime>54695</CreaTime>
+					<ModiTime>54697</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO03W100</Name>
+				<Index>2</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.762</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="3" Name="ACAD_ISO04W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>AFCA4664-70D2-47E0-BF5D-4FA6D0C78419</guid>
+					</OdbRef>
+					<CreaTime>54700</CreaTime>
+					<ModiTime>54702</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO04W100</Name>
+				<Index>3</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.762</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.6096</CenterLineLength>
+						<CenterLineBegin>0.6858</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="4" Name="ACAD_ISO05W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>3F057F07-E731-4A30-AFC5-C4894FB7F3D8</guid>
+					</OdbRef>
+					<CreaTime>54705</CreaTime>
+					<ModiTime>54707</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO05W100</Name>
+				<Index>4</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.8382</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.6096</CenterLineLength>
+						<CenterLineBegin>0.6858</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>0.762</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="5" Name="ACAD_ISO06W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>4740C047-5BEE-4EB3-9685-772E478D8107</guid>
+					</OdbRef>
+					<CreaTime>54710</CreaTime>
+					<ModiTime>54712</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO06W100</Name>
+				<Index>5</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.9144</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.6096</CenterLineLength>
+						<CenterLineBegin>0.6858</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>0.762</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>0.8382</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="6" Name="ACAD_ISO07W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>B973864C-2EC2-4772-8120-A5383D852FA1</guid>
+					</OdbRef>
+					<CreaTime>54715</CreaTime>
+					<ModiTime>54717</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO07W100</Name>
+				<Index>6</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.0762</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="7" Name="ACAD_ISO08W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>76DFF748-0358-40F8-9CFD-E1332EAEEF6C</guid>
+					</OdbRef>
+					<CreaTime>54720</CreaTime>
+					<ModiTime>54722</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO08W100</Name>
+				<Index>7</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.9144</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.6096</CenterLineLength>
+						<CenterLineBegin>0.6858</CenterLineBegin>
+						<CenterLineLength>0.1524</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="8" Name="ACAD_ISO09W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>A121CED6-276E-4A7F-8C2C-442CE2F1A100</guid>
+					</OdbRef>
+					<CreaTime>54725</CreaTime>
+					<ModiTime>54727</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO09W100</Name>
+				<Index>8</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>1.143</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.6096</CenterLineLength>
+						<CenterLineBegin>0.6858</CenterLineBegin>
+						<CenterLineLength>0.1524</CenterLineLength>
+						<CenterLineBegin>0.9144</CenterLineBegin>
+						<CenterLineLength>0.1524</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="9" Name="ACAD_ISO10W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>6A5EEF21-5405-4007-ADC5-0AA6CF29AC6E</guid>
+					</OdbRef>
+					<CreaTime>54730</CreaTime>
+					<ModiTime>54732</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO10W100</Name>
+				<Index>9</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.4572</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+						<CenterLineBegin>0.381</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="10" Name="ACAD_ISO11W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>0D569148-59FC-45C8-8D77-9A6635DBA98C</guid>
+					</OdbRef>
+					<CreaTime>54735</CreaTime>
+					<ModiTime>54737</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO11W100</Name>
+				<Index>10</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.8382</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+						<CenterLineBegin>0.381</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+						<CenterLineBegin>0.762</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="11" Name="ACAD_ISO12W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>940BFCDE-F643-4131-9441-8948CDFED02F</guid>
+					</OdbRef>
+					<CreaTime>54740</CreaTime>
+					<ModiTime>54742</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO12W100</Name>
+				<Index>11</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.5334</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+						<CenterLineBegin>0.381</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>0.4572</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="12" Name="ACAD_ISO13W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>8FE5669E-3B3F-4869-908F-765E851EA4CF</guid>
+					</OdbRef>
+					<CreaTime>54745</CreaTime>
+					<ModiTime>54747</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO13W100</Name>
+				<Index>12</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.9144</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+						<CenterLineBegin>0.381</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+						<CenterLineBegin>0.762</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>0.8382</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="13" Name="ACAD_ISO14W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>91D983B9-511F-4B45-AE3B-6DE2A661C6B7</guid>
+					</OdbRef>
+					<CreaTime>54750</CreaTime>
+					<ModiTime>54752</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO14W100</Name>
+				<Index>13</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.6096</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+						<CenterLineBegin>0.381</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>0.4572</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>0.5334</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="14" Name="ACAD_ISO15W100">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>B9D62202-B5A9-4BDA-B804-7039CB4E1438</guid>
+					</OdbRef>
+					<CreaTime>54755</CreaTime>
+					<ModiTime>54757</ModiTime>
+				</OdbObj>
+				<Name>ACAD_ISO15W100</Name>
+				<Index>14</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>0.9906</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+						<CenterLineBegin>0.381</CenterLineBegin>
+						<CenterLineLength>0.3048</CenterLineLength>
+						<CenterLineBegin>0.762</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>0.8382</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+						<CenterLineBegin>0.9144</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="15" Name="Solid">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>D6CEA611-3384-48F3-B529-712DE96F2C04</guid>
+					</OdbRef>
+					<CreaTime>54760</CreaTime>
+					<ModiTime>54762</ModiTime>
+				</OdbObj>
+				<Name>Solid</Name>
+				<Index>15</Index>
+				<Flags/>
+				<ModiTime>1524519904</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>1999999991808</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>SolidLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>1999999991808</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+		</Attributes>
+		<Attributes Type="Surfaces">
+			<RefID>1296127026</RefID>
+		</Attributes>
+		<Attributes Type="Pens">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Zone Categories">
+			<RefID>1380795186</RefID>
+		</Attributes>
+		<Attributes Type="Markup Styles">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profiles">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="MEP Systems">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Operation Profiles">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Renovation Override Styles">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Building Materials">
+			<RefID>1112359252</RefID>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>
