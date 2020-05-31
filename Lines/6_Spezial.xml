@@ -40538,6 +40538,60 @@
 					</LineItem>
 				</LineItemsData>
 			</LineType>
+			<LineType Idx="13" Name="Landgrenze">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>659DE4BD-BD7C-4BA1-ACBC-575983626C44</guid>
+					</OdbRef>
+					<CreaTime>7941</CreaTime>
+					<ModiTime>7943</ModiTime>
+				</OdbObj>
+				<Name>Landgrenze</Name>
+				<Index>13</Index>
+				<Flags/>
+				<ModiTime>1402051277</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>8</LinePeriod>
+				<LineHeight>9.99999999999998</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>8</CenterLineBegin>
+						<CenterLineLength>-8</CenterLineLength>
+					</LineItem>
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>8</X>
+							<Y>9.e-15</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>2.99999999999999</X>
+							<Y>-4.99999999999999</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>6.50000000000001</X>
+							<Y>9.e-15</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>1.49999999999998</X>
+							<Y>-4.99999999999999</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>5.00000000000001</X>
+							<Y>9.e-15</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>0</X>
+							<Y>-4.99999999999998</Y>
+						</LineItemEndCoord>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
 		</Attributes>
 		<Attributes Type="Oberflächen">
 			<RefID>1296127026</RefID>
