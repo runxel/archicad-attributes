@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NamedExpression Mv="1" Sv="4">
+	<OdbObj Mv="1" Sv="4">
+		<OdbRef>
+			<guid>022525A9-1561-40BD-B60D-AABB1931925F</guid>
+		</OdbRef>
+		<CreaTime>6621236</CreaTime>
+		<ModiTime>6621236</ModiTime>
+	</OdbObj>
+	<Name>Schraffuren</Name>
+	<UserId>00000000-0000-0000-0000-000000000000</UserId>
+	<CriterionExpression Mv="2" Sv="1">
+		<TextMatchType>1</TextMatchType>
+		<Size>1</Size>
+		<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+		<CompositeCriterion Mv="2" Sv="1">
+			<LogicalOperator>2</LogicalOperator>
+			<CriteriaCount>4</CriteriaCount>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>1</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+				<ElemTypeCriterion Mv="2" Sv="3">
+					<VBEF::CritToolType Mv="1" Sv="0">
+						<ElemRegistryRefId>1212240963</ElemRegistryRefId>
+						<ElemCreatorToolUnID>
+							<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+							<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+						</ElemCreatorToolUnID>
+					</VBEF::CritToolType>
+					<LogicalOperator>1</LogicalOperator>
+				</ElemTypeCriterion>
+			</CompositeCriterion>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>1</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+				<PropertyCriterion Mv="5" Sv="0">
+					<VBEF::ConditionIO Mv="1" Sv="0">
+						<PropertyDefinitionUserId Version="2">
+							<PrimaryId>0</PrimaryId>
+							<HasGuidId>true</HasGuidId>
+							<Guid>AF2AC4AD-2176-4D0F-A20F-2CD2A6214288</Guid>
+							<HasNameId>false</HasNameId>
+							<Name/>
+							<PropertyDefinitionGroupUserId Version="2">
+								<PrimaryId>0</PrimaryId>
+								<HasGuidId>true</HasGuidId>
+								<Guid>BC35B0C5-5E86-4C10-BF5F-15ED50FBD391</Guid>
+								<HasNameId>false</HasNameId>
+								<Name/>
+							</PropertyDefinitionGroupUserId>
+						</PropertyDefinitionUserId>
+						<CriteriaOperatorEnum>6</CriteriaOperatorEnum>
+						<Value>
+							<Variant Type="IntListVariant">
+								<Status>Normal</Status>
+								<ValueArray>
+									<ValueItem>1</ValueItem>
+								</ValueArray>
+							</Variant>
+						</Value>
+					</VBEF::ConditionIO>
+				</PropertyCriterion>
+			</CompositeCriterion>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>1</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+				<PropertyCriterion Mv="5" Sv="0">
+					<VBEF::ConditionIO Mv="1" Sv="0">
+						<PropertyDefinitionUserId Version="2">
+							<PrimaryId>0</PrimaryId>
+							<HasGuidId>true</HasGuidId>
+							<Guid>528B2B52-F122-4B1D-A0CA-5F3FFCE26BB2</Guid>
+							<HasNameId>false</HasNameId>
+							<Name/>
+							<PropertyDefinitionGroupUserId Version="2">
+								<PrimaryId>0</PrimaryId>
+								<HasGuidId>true</HasGuidId>
+								<Guid>BC35B0C5-5E86-4C10-BF5F-15ED50FBD391</Guid>
+								<HasNameId>false</HasNameId>
+								<Name/>
+							</PropertyDefinitionGroupUserId>
+						</PropertyDefinitionUserId>
+						<CriteriaOperatorEnum>6</CriteriaOperatorEnum>
+						<Value>
+							<Variant Type="IntListVariant">
+								<Status>Normal</Status>
+								<ValueArray>
+									<ValueItem>1</ValueItem>
+								</ValueArray>
+							</Variant>
+						</Value>
+					</VBEF::ConditionIO>
+				</PropertyCriterion>
+			</CompositeCriterion>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>1</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+				<PropertyCriterion Mv="5" Sv="0">
+					<VBEF::ConditionIO Mv="1" Sv="0">
+						<PropertyDefinitionUserId Version="2">
+							<PrimaryId>0</PrimaryId>
+							<HasGuidId>true</HasGuidId>
+							<Guid>ED2B9124-DE9C-46D9-9E42-9796ECB73C3F</Guid>
+							<HasNameId>false</HasNameId>
+							<Name/>
+							<PropertyDefinitionGroupUserId Version="2">
+								<PrimaryId>0</PrimaryId>
+								<HasGuidId>true</HasGuidId>
+								<Guid>BC35B0C5-5E86-4C10-BF5F-15ED50FBD391</Guid>
+								<HasNameId>false</HasNameId>
+								<Name/>
+							</PropertyDefinitionGroupUserId>
+						</PropertyDefinitionUserId>
+						<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+						<Value>
+							<Variant Type="IntVariant">
+								<Status>Normal</Status>
+								<Value>1</Value>
+							</Variant>
+						</Value>
+					</VBEF::ConditionIO>
+				</PropertyCriterion>
+			</CompositeCriterion>
+		</CompositeCriterion>
+	</CriterionExpression>
+</NamedExpression>
