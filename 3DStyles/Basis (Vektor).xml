@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<D3WindowStyle Mv="1" Sv="0">
+	<Name>Basis (Vektor)</Name>
+	<EngineId>0</EngineId>
+	<ViewMode>2</ViewMode>
+	<TransparencyEnabled>true</TransparencyEnabled>
+	<MonochromeEnabled>false</MonochromeEnabled>
+	<MonochromeSurfaceRGB>
+		<Red>65535</Red>
+		<Green>65535</Green>
+		<Blue>65535</Blue>
+	</MonochromeSurfaceRGB>
+	<MonochromeContourRGB>
+		<Red>65535</Red>
+		<Green>65535</Green>
+		<Blue>65535</Blue>
+	</MonochromeContourRGB>
+	<BkgAsInPhotorendering>false</BkgAsInPhotorendering>
+	<BkgChainColors>true</BkgChainColors>
+	<BkgSkyColor>
+		<Red>64250</Red>
+		<Green>64250</Green>
+		<Blue>64250</Blue>
+	</BkgSkyColor>
+	<BkgEarthColor>
+		<Red>64250</Red>
+		<Green>64250</Green>
+		<Blue>64250</Blue>
+	</BkgEarthColor>
+	<ContoursEnabled>true</ContoursEnabled>
+	<ContoursMode>1</ContoursMode>
+	<VectorialHatchingEnabled>false</VectorialHatchingEnabled>
+	<ShadowContoursEnabled>false</ShadowContoursEnabled>
+	<ContourThickness>1</ContourThickness>
+	<SilhouetteThickness>1</SilhouetteThickness>
+	<VectorialHatchingThickness>1</VectorialHatchingThickness>
+	<ShadowContourThickness>1</ShadowContourThickness>
+	<SunShadowsEnabled>true</SunShadowsEnabled>
+	<ShadeSurfaces>true</ShadeSurfaces>
+	<CastShadowPercent>0</CastShadowPercent>
+	<ShadingPercent>4</ShadingPercent>
+	<ShadowsOnASingleLevel>false</ShadowsOnASingleLevel>
+	<ShadowsOnThisLevel>0</ShadowsOnThisLevel>
+	<Show3DHotspotsOnly>false</Show3DHotspotsOnly>
+	<EngineExtraSettingsVers>0</EngineExtraSettingsVers>
+	<EngineExtraSettings>
+		<![CDATA[]]>
+	</EngineExtraSettings>
+</D3WindowStyle>
