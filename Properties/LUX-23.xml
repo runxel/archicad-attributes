@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildingInformation>
+	<PropertyDefinitionGroups>
+		<PropertyDefinitionGroup>
+			<Name>LUX</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Wandlängenpräzision</Name>
+					<Description>Misst die Referenzlänge der Wand und überprüft, ob die Wand eine geringe Abweichung besitzt.
+Das würde auf eine mögliche Ungenauigkeit der Wand hinweisen.</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( STRTONUM ( ( RIGHT ( STR ( ( ( {Property:736276CC-0825-4738-A2E8-CDD740C7F635} * 1000000000 ) / 1 m ), 3 ), 11 ) ) ) = 0, "passt", CONCAT ( "unpräzise: ", STR ( ( {Property:736276CC-0825-4738-A2E8-CDD740C7F635} / 1 m ), 3 ), "|", SUBSTITUTE ( SPLITRIGHT ( STR ( ( ( {Property:736276CC-0825-4738-A2E8-CDD740C7F635} * 1000000000 ) / 1 m ), 3 ), "", 6 ), ",", "" ) ) )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Wand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+	</PropertyDefinitionGroups>
+</BuildingInformation>
