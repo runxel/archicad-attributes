@@ -40246,15 +40246,15 @@
 					</LineItem>
 				</LineItemsData>
 			</LineType>
-			<LineType Idx="11" Name="SHADING">
+			<LineType Idx="11" Name="Shading">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
 						<guid>203EC8C7-E69F-45AF-AACD-139D9797FC93</guid>
 					</OdbRef>
 					<CreaTime>7902</CreaTime>
-					<ModiTime>7904</ModiTime>
+					<ModiTime>7973</ModiTime>
 				</OdbObj>
-				<Name>SHADING</Name>
+				<Name>Shading</Name>
 				<Index>11</Index>
 				<Flags/>
 				<ModiTime>1507301425</ModiTime>

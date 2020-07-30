@@ -28,5 +28,436 @@ Das würde auf eine mögliche Ungenauigkeit der Wand hinweisen.</Description>
 				</PropertyDefinition>
 			</PropertyDefinitions>
 		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>Allgemeine Werte</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>QTO Konditionale Fläche</Name>
+					<Description>Quantity Take Off für Wandflächen, z.B. zur Berechnung von Putz</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Area</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>( IF ( ( IF ( {Property:30EF220F-495D-4B8B-AE0C-484A04814816} &gt;= {Property:F7D3DF2E-1478-4DA9-BAA4-A09AEB759562}, {Property:30EF220F-495D-4B8B-AE0C-484A04814816}, {Property:F7D3DF2E-1478-4DA9-BAA4-A09AEB759562} ) ) &gt;= {Property:BA0E29BD-A795-4A93-A33F-C2C17B46C33A}, ( ( IF ( {Property:30EF220F-495D-4B8B-AE0C-484A04814816} &gt;= {Property:F7D3DF2E-1478-4DA9-BAA4-A09AEB759562}, {Property:30EF220F-495D-4B8B-AE0C-484A04814816}, {Property:F7D3DF2E-1478-4DA9-BAA4-A09AEB759562} ) ) - {Property:BA0E29BD-A795-4A93-A33F-C2C17B46C33A} ) * {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, 0 m2 ) ) + IF ( {Property:06481385-9050-48DC-9F97-AE699F816DDE} &gt;= {Property:CBC831B5-4B36-4DDE-B368-D42CB7152B10}, {Property:06481385-9050-48DC-9F97-AE699F816DDE}, {Property:CBC831B5-4B36-4DDE-B368-D42CB7152B10} )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Dach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Dachkonstruktion</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Flachdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Mansardenwalmdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Mansarddach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Kuppeldach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Pultdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Satteldach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Tonnendach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Walmdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Zeltdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Decke</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rohbaudecke</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Streifenfundament</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Träger / Balken / Unterzug</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Balken</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Sturz</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Unterzug</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Elementwand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Vorwand / Installationswand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Bewegliche Wand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Brüstung</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Trennwand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>QTO Konditional Innen</Name>
+					<Description>Konditionaler Oberflächenbereich an der Innenseite</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Area</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:CBC831B5-4B36-4DDE-B368-D42CB7152B10}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Bauelement - beliebig</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Dach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Dachkonstruktion</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Flachdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Mansardenwalmdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Mansarddach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Kuppeldach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Pultdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Satteldach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Tonnendach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Walmdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Zeltdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Decke</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rohbaudecke</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Streifenfundament</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Träger / Balken / Unterzug</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Elementwand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Vorwand / Installationswand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Bewegliche Wand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Brüstung</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Trennwand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>QTO Konditional Außen</Name>
+					<Description>Konditionaler Oberflächenbereich an der Außenseite</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Area</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:06481385-9050-48DC-9F97-AE699F816DDE}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Bauelement - beliebig</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Dach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Dachkonstruktion</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Flachdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Mansardenwalmdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Mansarddach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Kuppeldach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Pultdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Satteldach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Tonnendach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Walmdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Zeltdach</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Decke</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rohbaudecke</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Streifenfundament</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Träger / Balken / Unterzug</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Balken</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Sturz</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Unterzug</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Elementwand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Vorwand / Installationswand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Bewegliche Wand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Brüstung</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Trennwand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>QTO Wandflächen nach VOB</Name>
+					<Description>Vergleiche den größeren Teil der Bruttofläche außen mit innen (Hier werden auch die Wandenden angrenzenden Wände mitgerechnet)
+Ziehe Konditionale Fläche von Nettofläche plus Öffnungsfläche ab
+(Quelle: Lukas Oelmüller)</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Area</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>( IF ( {Property:BC5C0BC9-797C-4914-96FE-1CE084BA80F2} &gt; {Property:42FF9D89-8001-4DA5-9AAD-B11AF369F0C7}, {Property:BC5C0BC9-797C-4914-96FE-1CE084BA80F2}, {Property:42FF9D89-8001-4DA5-9AAD-B11AF369F0C7} ) ) - ( {Property:9FF86DF1-5498-4925-83BA-1D9B97ABE103} - {Property:06481385-9050-48DC-9F97-AE699F816DDE} + {Property:1FC7F776-4A21-41B3-B61E-2A931A0CA78B} )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Wand</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
 	</PropertyDefinitionGroups>
 </BuildingInformation>
