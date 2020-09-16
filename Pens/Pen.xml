@@ -12,7 +12,7 @@
 		<Attributes Type="Bemaßungsstandards">
 			<RefID>1398033970</RefID>
 		</Attributes>
-		<Attributes Type="Schraffurtypen">
+		<Attributes Type="Schraffuren">
 			<RefID>1179208755</RefID>
 		</Attributes>
 		<Attributes Type="Ebenen">
@@ -21,7 +21,7 @@
 		<Attributes Type="Ebenen-Kombinationen">
 			<RefID>1279479602</RefID>
 		</Attributes>
-		<Attributes Type="Linientypen">
+		<Attributes Type="Linien">
 			<RefID>1279872562</RefID>
 		</Attributes>
 		<Attributes Type="Oberflächen">
@@ -32,15 +32,15 @@
 			<PenTable Idx="1" Name="00 LUX">
 				<OdbObj Mv="2" Sv="0">
 					<OdbRef>
-						<guid>2E7A8664-F76A-4E16-8F63-48BF11D65A19</guid>
+						<guid>E81FE718-2DFC-45E8-8E16-0C7D04DE927A</guid>
 					</OdbRef>
-					<CreaTime>4389</CreaTime>
-					<ModiTime>4391</ModiTime>
+					<CreaTime>4456</CreaTime>
+					<ModiTime>4458</ModiTime>
 				</OdbObj>
 				<Name>00 LUX</Name>
 				<Index>1</Index>
 				<Flags/>
-				<ModiTime>1574273148</ModiTime>
+				<ModiTime>1599767822</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ReadOnly>false</ReadOnly>
 				<Pens>
@@ -52,7 +52,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.09</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -70,7 +70,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -88,7 +88,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.19</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -106,7 +106,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -124,7 +124,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.4</Width>
+						<Width>0.40569444444445</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -142,7 +142,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.53</Width>
+						<Width>0.511527777777785</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -160,7 +160,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.7</Width>
+						<Width>0.635000000000009</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -178,7 +178,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>1</Width>
+						<Width>0.776111111111122</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -196,7 +196,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>1.4</Width>
+						<Width>1.23472222222224</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -214,7 +214,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>0</Green>
@@ -232,7 +232,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>13878</Red>
 							<Green>13878</Green>
@@ -250,7 +250,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>59110</Red>
 							<Green>53970</Green>
@@ -268,7 +268,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>9509</Red>
 							<Green>18761</Green>
@@ -286,7 +286,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -304,7 +304,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -322,7 +322,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>11822</Red>
 							<Green>11822</Green>
@@ -340,7 +340,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>12593</Red>
 							<Green>31868</Green>
@@ -358,7 +358,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -376,7 +376,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -394,7 +394,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -412,7 +412,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>0</Green>
@@ -430,7 +430,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>43176</Red>
 							<Green>0</Green>
@@ -448,7 +448,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>38550</Red>
 							<Green>38550</Green>
@@ -466,7 +466,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>30583</Red>
 							<Green>34695</Green>
@@ -484,7 +484,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>31097</Red>
 							<Green>53456</Green>
@@ -502,7 +502,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>34695</Red>
 							<Green>40349</Green>
@@ -520,7 +520,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>55512</Red>
 							<Green>38293</Green>
@@ -538,7 +538,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>42405</Red>
 							<Green>28784</Green>
@@ -556,7 +556,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>55255</Red>
 							<Green>43176</Green>
@@ -574,7 +574,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>40349</Red>
 							<Green>58596</Green>
@@ -592,7 +592,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -610,7 +610,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>42148</Green>
@@ -628,7 +628,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>59110</Red>
 							<Green>56540</Green>
@@ -646,7 +646,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>14135</Red>
 							<Green>39835</Green>
@@ -664,7 +664,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>49344</Red>
 							<Green>49344</Green>
@@ -682,7 +682,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>32125</Red>
 							<Green>38807</Green>
@@ -700,7 +700,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>18504</Red>
 							<Green>34952</Green>
@@ -718,7 +718,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>41634</Red>
 							<Green>41634</Green>
@@ -736,7 +736,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>32639</Red>
 							<Green>32639</Green>
@@ -754,7 +754,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>28013</Red>
 							<Green>18761</Green>
@@ -772,7 +772,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>59624</Green>
@@ -790,7 +790,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>51914</Green>
@@ -808,7 +808,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>56540</Green>
@@ -826,7 +826,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>56283</Red>
 							<Green>59110</Green>
@@ -844,7 +844,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>52685</Red>
 							<Green>61166</Green>
@@ -862,7 +862,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>53970</Red>
 							<Green>56283</Green>
@@ -880,7 +880,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>61166</Red>
 							<Green>53970</Green>
@@ -898,7 +898,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>57054</Red>
 							<Green>51143</Green>
@@ -916,7 +916,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>61423</Red>
 							<Green>56797</Green>
@@ -934,7 +934,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>55769</Red>
 							<Green>62708</Green>
@@ -952,7 +952,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>51657</Red>
 							<Green>51657</Green>
@@ -970,7 +970,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>59624</Green>
@@ -988,7 +988,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -1006,7 +1006,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>50886</Red>
 							<Green>59881</Green>
@@ -1024,7 +1024,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>57311</Red>
 							<Green>57311</Green>
@@ -1042,7 +1042,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>52171</Red>
 							<Green>54998</Green>
@@ -1060,7 +1060,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>31868</Red>
 							<Green>53970</Green>
@@ -1078,7 +1078,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>51400</Red>
 							<Green>51400</Green>
@@ -1096,7 +1096,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>46517</Red>
 							<Green>46517</Green>
@@ -1114,7 +1114,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>49601</Red>
 							<Green>38550</Green>
@@ -1132,7 +1132,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>25186</Red>
 							<Green>12593</Green>
@@ -1150,7 +1150,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -1168,7 +1168,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>26214</Green>
@@ -1186,7 +1186,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>33410</Green>
@@ -1204,7 +1204,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>64250</Red>
 							<Green>11565</Green>
@@ -1222,7 +1222,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>25186</Green>
@@ -1240,7 +1240,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>45232</Red>
 							<Green>45232</Green>
@@ -1258,7 +1258,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>49344</Red>
 							<Green>49344</Green>
@@ -1276,7 +1276,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -1294,7 +1294,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>36237</Green>
@@ -1312,7 +1312,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>13621</Red>
 							<Green>0</Green>
@@ -1330,7 +1330,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>57054</Red>
 							<Green>43947</Green>
@@ -1348,7 +1348,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>43176</Red>
 							<Green>43176</Green>
@@ -1366,7 +1366,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>46003</Red>
 							<Green>0</Green>
@@ -1384,7 +1384,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -1402,7 +1402,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>23387</Green>
@@ -1420,7 +1420,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -1438,7 +1438,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -1456,7 +1456,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -1474,7 +1474,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -1492,7 +1492,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.09</Width>
+						<Width>0.141111111111113</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>8481</Green>
@@ -1510,7 +1510,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>8481</Green>
@@ -1528,7 +1528,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.19</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>8481</Green>
@@ -1546,7 +1546,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>8481</Green>
@@ -1564,7 +1564,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.4</Width>
+						<Width>0.40569444444445</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>8481</Green>
@@ -1582,7 +1582,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.53</Width>
+						<Width>0.511527777777785</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>8481</Green>
@@ -1600,7 +1600,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.7</Width>
+						<Width>0.635000000000009</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>8481</Green>
@@ -1618,7 +1618,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>1</Width>
+						<Width>0.776111111111122</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>8481</Green>
@@ -1636,7 +1636,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>1.4</Width>
+						<Width>1.23472222222224</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>8481</Green>
@@ -1672,7 +1672,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -1690,7 +1690,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>61423</Red>
 							<Green>61423</Green>
@@ -1708,7 +1708,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>58596</Red>
 							<Green>58596</Green>
@@ -1726,7 +1726,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>54227</Red>
 							<Green>54227</Green>
@@ -1744,7 +1744,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>48830</Red>
 							<Green>48830</Green>
@@ -1762,7 +1762,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>41120</Red>
 							<Green>41120</Green>
@@ -1780,7 +1780,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>30840</Red>
 							<Green>30840</Green>
@@ -1798,7 +1798,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>24415</Red>
 							<Green>24415</Green>
@@ -1816,7 +1816,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>17990</Red>
 							<Green>17990</Green>
@@ -1834,7 +1834,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.19402777777778</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -1852,7 +1852,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>64764</Red>
 							<Green>0</Green>
@@ -1870,7 +1870,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>32639</Green>
@@ -1888,7 +1888,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -1906,7 +1906,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>37265</Green>
@@ -1924,7 +1924,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>63736</Green>
@@ -1942,7 +1942,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>1285</Red>
 							<Green>31097</Green>
@@ -1960,7 +1960,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>32639</Green>
@@ -1978,7 +1978,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>32896</Red>
 							<Green>2570</Green>
@@ -1996,7 +1996,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>43690</Red>
 							<Green>2570</Green>
@@ -2014,7 +2014,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.15</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>25186</Red>
 							<Green>8995</Green>
@@ -2032,7 +2032,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -2050,7 +2050,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>61423</Red>
 							<Green>61423</Green>
@@ -2068,7 +2068,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>58596</Red>
 							<Green>58596</Green>
@@ -2086,7 +2086,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>54227</Red>
 							<Green>54227</Green>
@@ -2104,7 +2104,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>48830</Red>
 							<Green>48830</Green>
@@ -2122,7 +2122,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>41120</Red>
 							<Green>41120</Green>
@@ -2140,7 +2140,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>30840</Red>
 							<Green>30840</Green>
@@ -2158,7 +2158,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>24415</Red>
 							<Green>24415</Green>
@@ -2176,7 +2176,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>17990</Red>
 							<Green>17990</Green>
@@ -2194,7 +2194,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.28</Width>
+						<Width>0.317500000000004</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -2212,7 +2212,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>31868</Red>
 							<Green>9509</Green>
@@ -2230,7 +2230,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>37779</Red>
 							<Green>0</Green>
@@ -2248,7 +2248,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>37779</Red>
 							<Green>7196</Green>
@@ -2266,7 +2266,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>38807</Red>
 							<Green>11565</Green>
@@ -2284,7 +2284,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>40606</Red>
 							<Green>12079</Green>
@@ -2302,7 +2302,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>41120</Red>
 							<Green>20560</Green>
@@ -2320,7 +2320,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>39578</Red>
 							<Green>15934</Green>
@@ -2338,7 +2338,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>45489</Red>
 							<Green>17219</Green>
@@ -2356,7 +2356,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>50372</Red>
 							<Green>29041</Green>
@@ -2374,7 +2374,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>53199</Red>
 							<Green>29041</Green>
@@ -2392,7 +2392,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>56283</Red>
 							<Green>37522</Green>
@@ -2410,7 +2410,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>60138</Red>
 							<Green>51914</Green>
@@ -2428,7 +2428,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>62965</Red>
 							<Green>56540</Green>
@@ -2446,7 +2446,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65278</Red>
 							<Green>64507</Green>
@@ -2464,7 +2464,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65278</Green>
@@ -2482,7 +2482,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>31868</Red>
 							<Green>4112</Green>
@@ -2500,7 +2500,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>35980</Red>
 							<Green>0</Green>
@@ -2518,7 +2518,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>40349</Red>
 							<Green>0</Green>
@@ -2536,7 +2536,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>42148</Red>
 							<Green>20303</Green>
@@ -2554,7 +2554,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>55512</Red>
 							<Green>39578</Green>
@@ -2572,7 +2572,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>27756</Red>
 							<Green>11565</Green>
@@ -2590,7 +2590,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>24929</Red>
 							<Green>14906</Green>
@@ -2608,7 +2608,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>33153</Red>
 							<Green>21588</Green>
@@ -2626,7 +2626,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>42405</Red>
 							<Green>29812</Green>
@@ -2644,7 +2644,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>44204</Red>
 							<Green>31097</Green>
@@ -2662,7 +2662,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>56797</Red>
 							<Green>30583</Green>
@@ -2680,7 +2680,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>53456</Red>
 							<Green>39835</Green>
@@ -2698,7 +2698,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>58339</Red>
 							<Green>48830</Green>
@@ -2716,7 +2716,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>59881</Red>
 							<Green>53456</Green>
@@ -2734,7 +2734,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>62965</Red>
 							<Green>58082</Green>
@@ -2752,7 +2752,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>62194</Red>
 							<Green>56026</Green>
@@ -2770,7 +2770,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>62965</Red>
 							<Green>58082</Green>
@@ -2788,7 +2788,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>63993</Red>
 							<Green>60395</Green>
@@ -2806,7 +2806,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>63993</Red>
 							<Green>60395</Green>
@@ -2824,7 +2824,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>64507</Red>
 							<Green>62708</Green>
@@ -2842,7 +2842,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>64250</Red>
 							<Green>62965</Green>
@@ -2860,7 +2860,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>30583</Red>
 							<Green>28013</Green>
@@ -2878,7 +2878,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>38550</Red>
 							<Green>33667</Green>
@@ -2896,7 +2896,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>50629</Red>
 							<Green>47031</Green>
@@ -2914,7 +2914,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>56797</Red>
 							<Green>54227</Green>
@@ -2932,7 +2932,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>5911</Red>
 							<Green>7453</Green>
@@ -2950,7 +2950,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>8995</Red>
 							<Green>9766</Green>
@@ -2968,7 +2968,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>3084</Red>
 							<Green>8224</Green>
@@ -2986,7 +2986,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>6939</Red>
 							<Green>21331</Green>
@@ -3004,7 +3004,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>20303</Red>
 							<Green>29555</Green>
@@ -3022,7 +3022,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>21588</Red>
 							<Green>33153</Green>
@@ -3040,7 +3040,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>29555</Red>
 							<Green>40863</Green>
@@ -3058,7 +3058,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>39064</Red>
 							<Green>46260</Green>
@@ -3076,7 +3076,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>45489</Red>
 							<Green>50629</Green>
@@ -3094,7 +3094,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>53456</Red>
 							<Green>55769</Green>
@@ -3112,7 +3112,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>54227</Red>
 							<Green>56540</Green>
@@ -3130,7 +3130,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -3148,7 +3148,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>10537</Red>
 							<Green>8738</Green>
@@ -3166,7 +3166,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>11051</Red>
 							<Green>10537</Green>
@@ -3184,7 +3184,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>18504</Red>
 							<Green>17219</Green>
@@ -3202,7 +3202,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>37522</Red>
 							<Green>35209</Green>
@@ -3220,7 +3220,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>35980</Red>
 							<Green>34181</Green>
@@ -3238,7 +3238,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>42919</Red>
 							<Green>40606</Green>
@@ -3256,7 +3256,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>48316</Red>
 							<Green>46260</Green>
@@ -3274,7 +3274,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>58596</Red>
 							<Green>55255</Green>
@@ -3292,7 +3292,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>14906</Red>
 							<Green>5911</Green>
@@ -3310,7 +3310,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>17476</Red>
 							<Green>14906</Green>
@@ -3328,7 +3328,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>25186</Red>
 							<Green>21845</Green>
@@ -3346,7 +3346,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>10023</Red>
 							<Green>11051</Green>
@@ -3364,7 +3364,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>21588</Red>
 							<Green>23387</Green>
@@ -3382,7 +3382,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>31097</Red>
 							<Green>33410</Green>
@@ -3400,7 +3400,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>21331</Red>
 							<Green>28527</Green>
@@ -3418,7 +3418,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>29812</Red>
 							<Green>38036</Green>
@@ -3436,7 +3436,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>42919</Red>
 							<Green>45489</Green>
@@ -3454,7 +3454,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>40092</Red>
 							<Green>46517</Green>
@@ -3472,7 +3472,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>43947</Red>
 							<Green>48316</Green>
@@ -3490,7 +3490,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>40863</Red>
 							<Green>48830</Green>
@@ -3508,7 +3508,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>44461</Red>
 							<Green>53713</Green>
@@ -3526,7 +3526,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>46003</Red>
 							<Green>51400</Green>
@@ -3544,7 +3544,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>50886</Red>
 							<Green>53713</Green>
@@ -3562,7 +3562,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>53199</Red>
 							<Green>55255</Green>
@@ -3580,7 +3580,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>56540</Red>
 							<Green>58082</Green>
@@ -3598,7 +3598,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>60909</Red>
 							<Green>61423</Green>
@@ -3616,7 +3616,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>62451</Red>
 							<Green>61680</Green>
@@ -3634,7 +3634,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>62965</Red>
 							<Green>62194</Green>
@@ -3652,7 +3652,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>42148</Red>
 							<Green>31354</Green>
@@ -3670,7 +3670,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>38550</Red>
 							<Green>34952</Green>
@@ -3688,7 +3688,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>57054</Red>
 							<Green>52685</Green>
@@ -3706,7 +3706,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>46003</Red>
 							<Green>47802</Green>
@@ -3724,7 +3724,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>39835</Red>
 							<Green>48316</Green>
@@ -3742,7 +3742,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>45489</Red>
 							<Green>53713</Green>
@@ -3760,7 +3760,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>52685</Red>
 							<Green>56283</Green>
@@ -3778,7 +3778,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>59624</Red>
 							<Green>60909</Green>
@@ -3796,7 +3796,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>49858</Red>
 							<Green>50886</Green>
@@ -3814,7 +3814,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>56026</Red>
 							<Green>59367</Green>
@@ -3832,7 +3832,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>56797</Red>
 							<Green>55512</Green>
@@ -3850,7 +3850,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>21074</Red>
 							<Green>21845</Green>
@@ -3868,7 +3868,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>25186</Red>
 							<Green>25443</Green>
@@ -3886,7 +3886,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>29041</Red>
 							<Green>30583</Green>
@@ -3904,7 +3904,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>35466</Red>
 							<Green>35466</Green>
@@ -3922,7 +3922,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>34181</Red>
 							<Green>37265</Green>
@@ -3940,7 +3940,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>40863</Red>
 							<Green>42662</Green>
@@ -3958,7 +3958,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>44204</Red>
 							<Green>44204</Green>
@@ -3976,7 +3976,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>44204</Red>
 							<Green>44204</Green>
@@ -3994,7 +3994,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>49601</Red>
 							<Green>49344</Green>
@@ -4012,7 +4012,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>17219</Red>
 							<Green>13364</Green>
@@ -4030,7 +4030,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>19275</Red>
 							<Green>10537</Green>
@@ -4048,7 +4048,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>25700</Red>
 							<Green>15677</Green>
@@ -4066,7 +4066,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>27756</Red>
 							<Green>13878</Green>
@@ -4084,7 +4084,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>34438</Red>
 							<Green>17990</Green>
@@ -4102,7 +4102,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>40606</Red>
 							<Green>22359</Green>
@@ -4120,7 +4120,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>44975</Red>
 							<Green>29041</Green>
@@ -4138,7 +4138,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>54741</Red>
 							<Green>44204</Green>
@@ -4156,7 +4156,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>60395</Red>
 							<Green>50372</Green>
@@ -4174,7 +4174,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>62708</Red>
 							<Green>57568</Green>
@@ -4192,7 +4192,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>61937</Red>
 							<Green>55512</Green>
@@ -4210,7 +4210,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>63993</Red>
 							<Green>60395</Green>
@@ -4228,7 +4228,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>51143</Red>
 							<Green>47802</Green>
@@ -4246,7 +4246,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>56026</Red>
 							<Green>52171</Green>
@@ -4264,7 +4264,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>59624</Red>
 							<Green>57311</Green>
@@ -4282,7 +4282,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -4300,7 +4300,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -4318,7 +4318,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -4336,7 +4336,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -4354,7 +4354,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -4372,7 +4372,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -4390,7 +4390,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>64507</Red>
 							<Green>64250</Green>
@@ -4408,7 +4408,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65278</Red>
 							<Green>64507</Green>
@@ -4426,7 +4426,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65278</Red>
 							<Green>65021</Green>
@@ -4444,7 +4444,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65278</Green>
@@ -4462,7 +4462,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>64250</Red>
 							<Green>63993</Green>
@@ -4480,7 +4480,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>64507</Red>
 							<Green>64764</Green>
@@ -4498,7 +4498,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>63993</Red>
 							<Green>64507</Green>
@@ -4516,7 +4516,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>63993</Red>
 							<Green>64764</Green>
@@ -4534,7 +4534,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65278</Green>
@@ -4552,7 +4552,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65278</Red>
 							<Green>64507</Green>
@@ -4570,7 +4570,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>64250</Red>
 							<Green>65021</Green>
@@ -4588,7 +4588,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -4606,7 +4606,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0.1</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>65535</Red>
 							<Green>65535</Green>
@@ -4624,7 +4624,7 @@
 						<ModiTime>0</ModiTime>
 						<Version>0</Version>
 						<RegMemoTable Mv="1" Sv="0"/>
-						<Width>0</Width>
+						<Width>0.246944444444448</Width>
 						<RGBColor>
 							<Red>0</Red>
 							<Green>0</Green>
@@ -4640,7 +4640,7 @@
 		<Attributes Type="Raumkategorien">
 			<RefID>1380795186</RefID>
 		</Attributes>
-		<Attributes Type="Projektmarker-Stile">
+		<Attributes Type="Issue-Stile">
 			<RefID>1297306713</RefID>
 		</Attributes>
 		<Attributes Type="Profile">
