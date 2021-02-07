@@ -1,0 +1,1928 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildingInformation>
+	<Classification>
+		<System>
+			<Name>ARCHICAD Klassifizierung</Name>
+			<EditionVersion>24</EditionVersion>
+			<EditionDate>
+				<Year>2020</Year>
+				<Month>5</Month>
+				<Day>26</Day>
+			</EditionDate>
+			<Description>Standard ARCHICAD Klassifizierung für Bauelemente  und Baustoffe</Description>
+			<Source>www.archicad.de</Source>
+			<Items>
+				<Item>
+					<ID>ELEMENTE</ID>
+					<Name/>
+					<Description>Klassifizierungen für Bauelemente</Description>
+					<Children>
+						<Item>
+							<ID>Bauelement - beliebig</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Bekleidung / Belag</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Abgehängte Decke / Deckenbekleidung</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Dachdeckung</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Dämmung</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Fußbodenaufbau</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Leiste</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcCovering | USERDEFINED | MOLDING
+IFC4: IfcCovering | MOLDING</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Membran</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Sockelleiste</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcCovering | USERDEFINED | SKIRTINGBOARD 
+IFC4: IfcCovering | SKIRTINGBOARD 
+</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Verkleidung</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Verrohrung</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Dach</ID>
+							<Name/>
+							<Description>Kompletter mehrschichtiger Dachaufbau - Allgemein
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcSlab | ROOF
+IFC4: IfcRoof | NOTDEFINED</Description>
+							<Children>
+								<Item>
+									<ID>Dachkonstruktion</ID>
+									<Name/>
+									<Description>Tragende Schicht des Daches</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Flachdach</ID>
+									<Name/>
+									<Description>Kompletter mehrschichtiger Dachaufbau
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcRoof | USERDEFINED | FLAT_ROOF
+IFC4: IfcRoof | FLAT_ROOF</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Mansardenwalmdach</ID>
+									<Name/>
+									<Description>Kompletter mehrschichtiger Dachaufbau
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcRoof | USERDEFINED | MANSARD_ROOF
+IFC4: IfcRoof | MANSARD_ROOF</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Mansarddach</ID>
+									<Name/>
+									<Description>Kompletter mehrschichtiger Dachaufbau
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcRoof | USERDEFINED | GAMBREL_ROOF
+IFC4: IfcRoof | GAMBREL_ROOF</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kuppeldach</ID>
+									<Name/>
+									<Description>Kompletter mehrschichtiger Dachaufbau
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcRoof | USERDEFINED | DOME_ROOF
+IFC4: IfcRoof | DOME_ROOF</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Pultdach</ID>
+									<Name/>
+									<Description>Kompletter mehrschichtiger Dachaufbau
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcRoof | USERDEFINED | SHED_ROOF
+IFC4: IfcRoof | SHED_ROOF</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Satteldach</ID>
+									<Name/>
+									<Description>Kompletter mehrschichtiger Dachaufbau
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcRoof | USERDEFINED | GABLE_ROOF
+IFC4: IfcRoof | GABLE_ROOF</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Tonnendach</ID>
+									<Name/>
+									<Description>Kompletter mehrschichtiger Dachaufbau
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcRoof | USERDEFINED | BORREL_ROOF
+IFC4: IfcRoof | BORREL_ROOF</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Walmdach</ID>
+									<Name/>
+									<Description>Kompletter mehrschichtiger Dachaufbau
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcRoof | USERDEFINED | HIP_ROOF
+IFC4: IfcRoof | HIP_ROOF</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Zeltdach</ID>
+									<Name/>
+									<Description>Kompletter mehrschichtiger Dachaufbau
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcRoof | USERDEFINED | PAVILION_ROOF
+IFC4: IfcRoof | PAVILION_ROOF</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Decke</ID>
+							<Name/>
+							<Description>Kompletter mehrschichtiger Deckenaufbau (Rohbaudecke+Bodenaufbau)</Description>
+							<Children>
+								<Item>
+									<ID>Rohbaudecke</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Durchbrüche / Schlitze</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcOpening | USERDEFINED | NOTDEFINED 
+IFC4: IfcOpening | NOTDEFINED</Description>
+							<Children>
+								<Item>
+									<ID>Durchbruchsvorschlag</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBuildingElementProxy | USERDEFINED | PROVISIONFORVOID
+IFC4: IfcBuildingElementProxy | PROVISIONFORVOID
+</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Nische</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcOpening | USERDEFINED | RECESS 
+IFC4: IfcOpening | RECESS</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Öffnung</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcOpening | USERDEFINED | OPENING
+IFC4: IfcOpening | OPENING</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Fassade</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Fassade Paneel</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Fassade Profil</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Fenster / Dachfenster / Lichtkuppel</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWindow | USERDEFINED | NOTDEFINED
+IFC4: IfcWindow | NOTDEFINED
+</Description>
+							<Children>
+								<Item>
+									<ID>Dachfenster</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWindow | USERDEFINED | SKYLIGHT
+IFC4: IfcWindow | SKYLIGHT</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Fenster</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWindow | USERDEFINED | WINDOW
+IFC4: IfcWindow | WINDOW</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Lichtkuppel</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWindow | USERDEFINED | LIGHTDOME
+IFC4: IfcWindow | LIGHTDOME</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Fundament</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Bodenplatte / Flachgründung</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Punktfundament</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Streifenfundament</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Tiefgründung</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Geländegeometrie</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Geländer</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Geländer Handlauf</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Geländer Paneel</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Geländer Pfosten</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Leuchte</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcFlowTerminal | USERDEFINED | LIGHT_FIXTURE
+IFC4: IfcLightFixture | NOTDEFINED</Description>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Möbel</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcFurnishingElement | USERDEFINED | FURNITURE
+IFC4: IfcFurniture | NOTDEFINED</Description>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Rampe</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcRamp | USERDEFINED | NOTDEFINED
+IFC4: IfcRamp | NOTDEFINED</Description>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Raum</ID>
+							<Name/>
+							<Description>Klassifizierung für das Raum-Werkzeug
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcSpace | USERDEFINED | NOTDEFINED
+IFC4: IfcSpace | NOTDEFINED</Description>
+							<Children>
+								<Item>
+									<ID>Aussenraum</ID>
+									<Name/>
+									<Description>Klassifizierung für das Raum-Werkzeug z.B. Fahrradstellplatz, Spielplatz, etc
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcSpace | USERDEFINED | EXTERNAL
+IFC4: IfcSpace | EXTERNAL</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Innenraum</ID>
+									<Name/>
+									<Description>Klassifizierung für das Raum-Werkzeug
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcSpace | USERDEFINED | INTERNAL
+IFC4: IfcSpace | INTERNAL</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Parkplatz</ID>
+									<Name/>
+									<Description>Klassifizierung für das Raum-Werkzeug
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcSpace | USERDEFINED | PARKING
+IFC4: IfcSpace | PARKING</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Raumvorschlag</ID>
+									<Name/>
+									<Description>Klassifizierung für Morph:
+Raumvorschlag für Freibereiche (Sanitär, Lüftung, etc.)
+-----------------------------------------
+IFC Export Typ-Zuodnung:
+IFC2x3: IfcBuildingElementProxy | USERDEFINED | PROVISIONFORSPACE
+IFC4: IfcBuildingElementProxy | PROVISIONFORSPACE
+</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Schornstein</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBuildingElementProxy | USERDEFINED | CHIMNEY
+IFC4: IfcChimney | NOTDEFINED</Description>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Sonnenschutz</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBuildingElementProxy | USERDEFINED | SHADING_DEVICE
+IFC4: IfcShadingDevice | NOTDEFINED</Description>
+							<Children>
+								<Item>
+									<ID>Fensterladen</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBuildingElementProxy | USERDEFINED | SHUTTER
+IFC4: IfcShadingDevice | SHUTTER</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Jalousie</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBuildingElementProxy | USERDEFINED | JALOUSIE
+IFC4: IfcShadingDevice | JALOUSIE</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Markise</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBuildingElementProxy | USERDEFINED | AWNING
+IFC4: IfcShadingDevice | AWNING</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Stütze / Pfeiler</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcColumn | USERDEFINED | NOTDEFINED
+IFC4: IfcColumn | NOTDEFINED</Description>
+							<Children>
+								<Item>
+									<ID>Stütze</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcColumn | USERDEFINED | COLUMN
+IFC4: IfcColumn | COLUMN</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Pfeiler</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcCloumn | USERDEFINED | PILASTER
+IFC4: IfcColumn | PILASTER</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Träger / Balken / Unterzug</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBeam | USERDEFINED | NOTDEFINED
+IFC4: IfcBeam | NOTDEFINED</Description>
+							<Children>
+								<Item>
+									<ID>Balken</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBeam | USERDEFINED | BEAM
+IFC4: IfcBeam | BEAM</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Sturz</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBeam | USERDEFINED | LINTEL
+IFC4: IfcBeam | LINTEL</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Unterzug</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcBeam | USERDEFINED | JOIST
+IFC4: IfcBeam | JOIST</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Treppe</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Treppen Lauf</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Treppen Podest</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Treppen Setzstufe</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Treppen Trittstufe</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Tür / Tor</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcDoor | USERDEFINED | NOTDEFINED
+IFC4: IfcDoor | NOTDEFINED</Description>
+							<Children>
+								<Item>
+									<ID>Klapptür</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcDoor | USERDEFINED | TRAPDOOR
+IFC4: IfcDoor | TRAPDOOR</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Tor</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcDoor | USERDEFINED | GATE
+IFC4: IfcDoor | GATE</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Tür</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcDoor | USERDEFINED | DOOR
+IFC4: IfcDoor | DOOR</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Wand</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWall | USERDEFINED | NOTDEFINED
+IFC4: IfcWall | NOTDEFINED</Description>
+							<Children>
+								<Item>
+									<ID>Elementwand</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWall | USERDEFINED | ELEMENTEDWALL
+IFC4: IfcWall | ELEMENTEDWALL</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Vorwand / Installationswand</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWall | USERDEFINED | PLUMBINGWALL
+IFC4: IfcWall | PLUMBINGWALL</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Bewegliche Wand</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWall | USERDEFINED | MOVABLE
+IFC4: IfcWall | MOVABLE</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Brüstung</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWall | USERDEFINED | PARAPET
+IFC4: IfcWall | PARAPET</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Trennwand</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcWall | USERDEFINED | PARTITIONING
+IFC4: IfcWall | PARTITIONING</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Transport Elemente</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcTransportElement | USERDEFINED | NOTDEFINED
+IFC4: IfcTransportElement | NOTDEFINED</Description>
+							<Children>
+								<Item>
+									<ID>Aufzug</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcTransportElement | USERDEFINED | ELEVATOR
+IFC4: IfcTransportElement | ELEVATOR</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Rolltreppe</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcTransportElement | USERDEFINED | ESCALATOR
+IFC4: IfcTransportElement | ESCALATOR</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Fahrsteig</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcTransportElement | USERDEFINED | MOVINGWALKWAY
+IFC4: IfcTransportElement | MOVINGWALKWAY</Description>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Hebevorrichtung</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcTransportElement | USERDEFINED | LIFTINGGEAR
+IFC4: IfcTransportElement | LIFTINGGEAR</Description>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Haustechnische Komponente (allgemein) - Unterelemente nutzen</ID>
+							<Name/>
+							<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcDistributionElement | NOTEFINED
+IFC4: IfcBuildingElementProxy | USERDEFINED | DISTRIBUTION_ELEMENT</Description>
+							<Children>
+								<Item>
+									<ID>Komponente der Gebäudeautomation (allgemein) - Unterelemente nutzen</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcDistributionElement | DISTRIBUTION_CONTROL_ELEMENT
+IFC4: IfcBuildingElementProxy | USERDEFINED | DISTRIBUTION_CONTROL_ELEMENT</Description>
+									<Children>
+										<Item>
+											<ID>Aktor</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Alarm / Gefahrenmelder</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Regler</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Messinstrument (allgemein)</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Sensor</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Einheitsregler</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Sicherungsschalter</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Komponente der TGA (allgemein) - Unterelemente nutzen</ID>
+									<Name/>
+									<Description>IFC Export Typ-Zuodnung:
+IFC2x3: IfcDistributionElement | DISTRIBUTION_FLOW_ELEMENT
+IFC4: IfcBuildingElementProxy | USERDEFINED | DISTRIBUTION_FLOW_ELEMENT</Description>
+									<Children>
+										<Item>
+											<ID>Schacht / Graben / Revisionsschacht</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Energiewandler</ID>
+											<Name/>
+											<Description/>
+											<Children>
+												<Item>
+													<ID>Befeuchter</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Einbaufertige Anlage</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Elektrogenerator</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Elektromotor</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Heiz-Kühlelemente</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Heizkessel</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Kältemaschine</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Kondensator</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Kühlbalken</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Kühlturm</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Motoranschluss</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Rohrbündel</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Transformator</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Verdampfer</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Verdunstungskühler</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Wärmerückgewinner</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Wärmetauscher</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Brenner</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Motor</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Solargerät</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+											</Children>
+										</Item>
+										<Item>
+											<ID>Regler (allgemein)</ID>
+											<Name/>
+											<Description/>
+											<Children>
+												<Item>
+													<ID>Elektrische Zeitsteuerung</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Regelklappe</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Schalter</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Sicherung</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Ventil</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Volumenstromregler</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Zähler (allgemein)</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Elektrischer Verteilungsregler</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+											</Children>
+										</Item>
+										<Item>
+											<ID>Verbinder / Formstück (allgemein)</ID>
+											<Name/>
+											<Description/>
+											<Children>
+												<Item>
+													<ID>Kabelträger Passstück</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Kanalverbinder</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Rohrverbinder</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Verbindungsdose</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Kabelverbinder</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+											</Children>
+										</Item>
+										<Item>
+											<ID>Strömungsmaschine (allgemein)</ID>
+											<Name/>
+											<Description/>
+											<Children>
+												<Item>
+													<ID>Kompressor</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Pumpe</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Ventilator</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+											</Children>
+										</Item>
+										<Item>
+											<ID>Verteiler (allgemein)</ID>
+											<Name/>
+											<Description/>
+											<Children>
+												<Item>
+													<ID>Kabelsegment</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Kabelträgersegment</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Kanal</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Rohr</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+											</Children>
+										</Item>
+										<Item>
+											<ID>Speicher (allgemein)</ID>
+											<Name/>
+											<Description/>
+											<Children>
+												<Item>
+													<ID>Elektrisches Speichergerät</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Tank</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+											</Children>
+										</Item>
+										<Item>
+											<ID>Endgerät (allgemein)</ID>
+											<Name/>
+											<Description/>
+											<Children>
+												<Item>
+													<ID>Ablauf / Abscheider</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Dose / Steckdose</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Elektrisches Gerät</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Feuerlöscheinrichtung</ID>
+													<Name/>
+													<Description/>
+													<Children>
+														<Item>
+															<ID>Hydrant</ID>
+															<Name/>
+															<Description/>
+															<Children/>
+														</Item>
+														<Item>
+															<ID>Sprinkler</ID>
+															<Name/>
+															<Description/>
+															<Children/>
+														</Item>
+													</Children>
+												</Item>
+												<Item>
+													<ID>Heizkörper</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Lampe/Leuchtmittel</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Luftauslass</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Rohrabdeckung</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Sanitäreinrichtung</ID>
+													<Name/>
+													<Description/>
+													<Children>
+														<Item>
+															<ID>WC</ID>
+															<Name/>
+															<Description/>
+															<Children/>
+														</Item>
+														<Item>
+															<ID>Badewanne</ID>
+															<Name/>
+															<Description/>
+															<Children/>
+														</Item>
+														<Item>
+															<ID>Bidet</ID>
+															<Name/>
+															<Description/>
+															<Children/>
+														</Item>
+														<Item>
+															<ID>Dusche</ID>
+															<Name/>
+															<Description/>
+															<Children/>
+														</Item>
+														<Item>
+															<ID>Handwaschbecken</ID>
+															<Name/>
+															<Description/>
+															<Children/>
+														</Item>
+														<Item>
+															<ID>Urinal</ID>
+															<Name/>
+															<Description/>
+															<Children/>
+														</Item>
+														<Item>
+															<ID>Waschbecken</ID>
+															<Name/>
+															<Description/>
+															<Children/>
+														</Item>
+													</Children>
+												</Item>
+												<Item>
+													<ID>Audiovisuelles Gerät</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Kommunikationsgerät</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Medizinisches Gerät</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+											</Children>
+										</Item>
+										<Item>
+											<ID>Filtervorrichtung</ID>
+											<Name/>
+											<Description/>
+											<Children>
+												<Item>
+													<ID>Kanalschalldämpfer</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Abscheider</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+												<Item>
+													<ID>Filter</ID>
+													<Name/>
+													<Description/>
+													<Children/>
+												</Item>
+											</Children>
+										</Item>
+									</Children>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Elementbestandteil</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Befestigungsmittel</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Bewehrungsmatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Bewehrungsstab</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Mechanisches Befestigungsmittel</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Spannglied</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Spanngliedanker</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Stab / Stabträger</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Zusatzgerät / Einbauteil</ID>
+									<Name/>
+									<Description/>
+									<Children>
+										<Item>
+											<ID>Schwingungsisolator</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>BAUSTOFFE</ID>
+					<Name/>
+					<Description>Klassifizierungen für Baustoffe
+</Description>
+					<Children>
+						<Item>
+							<ID>Ohne Klassifizierung</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Asphalt</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Abdichtung</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Beton</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Faserbeton</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Porenbeton</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Spannbeton</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Stahlbeton</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Stahlfaserbeton</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Estrichbeton</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Boden / Sand / Erdreich</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Dachziegel / Dachdeckung</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Betondachstein</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Bitumen</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Dachziegel</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Faserzementplatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kunstschiefer</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Schieferplatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Reet</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Dämmstoff</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Calciumsilikat-Platte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Filz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Flachsfasern</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Getreideschüttungen</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Glasfaserdämmstoff</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Holzwolle-Leichtbauplatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Holzweichfaserplatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Hanffasern</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kokosmatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kork</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Mineralfaser</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Mineralwolle</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Perlite</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Polystyrol</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Pressstroh</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Schafwolle</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Schaumglas</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Schaumkunststoff</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Strohleichtlehm</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Schilfrohr-Platte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Torfplatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Zellulose</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Fliesen / Keramik</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Glas</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Holz</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Bauholz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Brettschichtholz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Flachpressplatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Furniersperrholz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Grobspanplatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Holzwolle</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Leimbinder</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>MDF-Platte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Multiplex-Platte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>OSB-Platte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Sperrholz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Strangpressplatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Kies</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Kunststoff</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Luftschicht</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Mauerwerk / Pflaster</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Klinker</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Lehmziegel</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kalksandstein</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Hüttenstein</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Betonstein</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Leichtbetonstein</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Betonwerkstein</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Schwerbetonstein</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Ziegel</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Metall</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Aluminium</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Baustahl</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Blei</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Gusseisen</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kupfer</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Stahl</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Zink</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Zinn</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Edelstahl</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Naturstein</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Basalt</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Grauwacke</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Granit</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kalkstein</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Marmor</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Rhyolith</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Sandstein</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Schiefer</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Tuff</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Natürliche Baustoffe</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Parkett / Laminat</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Putz / Mörtel</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Gipsputz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kalkputz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kalkzementputz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Kunstharzputz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Lehmputz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Silikatputz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Zementputz</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Teppich / Textil</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Verbundwerkstoff</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Gipskarton</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Aluminium-Verbundplatte</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+			</Items>
+		</System>
+	</Classification>
+</BuildingInformation>
