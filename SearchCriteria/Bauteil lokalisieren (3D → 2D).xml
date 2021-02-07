@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NamedExpression Mv="1" Sv="4">
+	<OdbObj Mv="1" Sv="4">
+		<OdbRef>
+			<guid>047F20CE-120E-4786-B510-0773F7B00597</guid>
+		</OdbRef>
+		<CreaTime>4888567</CreaTime>
+		<ModiTime>4888567</ModiTime>
+	</OdbObj>
+	<Name>Bauteil lokalisieren (3D → 2D)</Name>
+	<UserId>00000000-0000-0000-0000-000000000000</UserId>
+	<CriterionExpression Mv="2" Sv="1">
+		<TextMatchType>1</TextMatchType>
+		<Size>1</Size>
+		<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+		<CompositeCriterion Mv="2" Sv="1">
+			<LogicalOperator>2</LogicalOperator>
+			<CriteriaCount>3</CriteriaCount>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>1</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+				<ModelElementCriterion Mv="2" Sv="0">
+					<LogicalOperator>1</LogicalOperator>
+				</ModelElementCriterion>
+			</CompositeCriterion>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>1</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+				<PropertyCriterion Mv="5" Sv="0">
+					<VBEF::ConditionIO Mv="1" Sv="0">
+						<PropertyDefinitionUserId Version="2">
+							<PrimaryId>0</PrimaryId>
+							<HasGuidId>true</HasGuidId>
+							<Guid>84A027A9-F2F1-40B4-A900-70A422B10829</Guid>
+							<HasNameId>false</HasNameId>
+							<Name/>
+							<PropertyDefinitionGroupUserId Version="2">
+								<PrimaryId>0</PrimaryId>
+								<HasGuidId>true</HasGuidId>
+								<Guid>12C3D95A-A101-410C-B732-6D0570F5C9B0</Guid>
+								<HasNameId>false</HasNameId>
+								<Name/>
+							</PropertyDefinitionGroupUserId>
+						</PropertyDefinitionUserId>
+						<CriteriaOperatorEnum>6</CriteriaOperatorEnum>
+						<Value>
+							<Variant Type="StringVariant">
+								<Status>Normal</Status>
+								<Value/>
+							</Variant>
+						</Value>
+					</VBEF::ConditionIO>
+				</PropertyCriterion>
+			</CompositeCriterion>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>1</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+				<PropertyCriterion Mv="5" Sv="0">
+					<VBEF::ConditionIO Mv="1" Sv="0">
+						<PropertyDefinitionUserId Version="2">
+							<PrimaryId>0</PrimaryId>
+							<HasGuidId>true</HasGuidId>
+							<Guid>792002ED-8D64-4DE4-877E-817D5CDF798F</Guid>
+							<HasNameId>false</HasNameId>
+							<Name/>
+							<PropertyDefinitionGroupUserId Version="2">
+								<PrimaryId>0</PrimaryId>
+								<HasGuidId>true</HasGuidId>
+								<Guid>5725F7E9-2A6C-4DA8-9015-09FE315ED296</Guid>
+								<HasNameId>false</HasNameId>
+								<Name/>
+							</PropertyDefinitionGroupUserId>
+						</PropertyDefinitionUserId>
+						<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+						<Value>
+							<Variant Type="IntVariant">
+								<Status>Normal</Status>
+								<Value>0</Value>
+							</Variant>
+						</Value>
+					</VBEF::ConditionIO>
+				</PropertyCriterion>
+			</CompositeCriterion>
+		</CompositeCriterion>
+	</CriterionExpression>
+</NamedExpression>
