@@ -12,7 +12,7 @@
 		<Attributes Type="Bemaßungsstandards">
 			<RefID>1398033970</RefID>
 		</Attributes>
-		<Attributes Type="Schraffurtypen">
+		<Attributes Type="Schraffuren">
 			<RefID>1179208755</RefID>
 		</Attributes>
 		<Attributes Type="Ebenen">
@@ -21,7 +21,7 @@
 		<Attributes Type="Ebenen-Kombinationen">
 			<RefID>1279479602</RefID>
 		</Attributes>
-		<Attributes Type="Linientypen">
+		<Attributes Type="Linien">
 			<RefID>1279872562</RefID>
 			<LineType Idx="1" Name="Unsichtbar">
 				<OdbObj Mv="3" Sv="0">
@@ -1022,6 +1022,80 @@
 					</LineItem>
 				</LineItemsData>
 			</LineType>
+			<LineType Idx="20" Name="Pfeil, geschweift">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>FB2F8E05-69B5-4120-84A1-098D6840A863</guid>
+					</OdbRef>
+					<CreaTime>4853</CreaTime>
+					<ModiTime>4855</ModiTime>
+				</OdbObj>
+				<Name>Pfeil, geschweift</Name>
+				<Index>20</Index>
+				<Flags/>
+				<ModiTime>1612710896</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ReadOnly>false</ReadOnly>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>8.25</LinePeriod>
+				<LineHeight>0.912395800091718</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>4.96680790418095</X>
+							<Y>-0.456197900045859</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>5.51150092144938</X>
+							<Y>-3.51260098651888e-15</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>6.5</X>
+							<Y>-3.07352586320402e-15</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>4.96680790418095</X>
+							<Y>0.456197900045852</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>4.96680790418095</X>
+							<Y>0.456197900045852</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>5.51150092144938</X>
+							<Y>-3.51260098651888e-15</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>6.5</X>
+							<Y>-3.3662426120806e-15</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>4.96680790418095</X>
+							<Y>-0.456197900045859</Y>
+						</LineItemEndCoord>
+					</LineItem>
+					<LineItem>
+						<ItemType>ArcItemType</ItemType>
+						<ArcItemPosition>
+							<X>1.37787523036235</X>
+							<Y>-3.46858614169762</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>3.73224194993074</ArcItemRadius>
+						<ArcItemBeginAngle>1.19266801822753</ArcItemBeginAngle>
+						<ArcItemEndAngle>1.94892463536227</ArcItemEndAngle>
+						<ArcItemPosition>
+							<X>4.13362569108703</X>
+							<Y>3.46858614169761</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>3.73224194993074</ArcItemRadius>
+						<ArcItemBeginAngle>4.33426067181732</ArcItemBeginAngle>
+						<ArcItemEndAngle>5.09051728895206</ArcItemEndAngle>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
 		</Attributes>
 		<Attributes Type="Oberflächen">
 			<RefID>1296127026</RefID>
@@ -1032,7 +1106,7 @@
 		<Attributes Type="Raumkategorien">
 			<RefID>1380795186</RefID>
 		</Attributes>
-		<Attributes Type="Projektmarker-Stile">
+		<Attributes Type="Issue-Stile">
 			<RefID>1297306713</RefID>
 		</Attributes>
 		<Attributes Type="Profile">
