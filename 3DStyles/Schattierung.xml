@@ -16,16 +16,16 @@
 		<Blue>0</Blue>
 	</MonochromeContourRGB>
 	<BkgAsInPhotorendering>false</BkgAsInPhotorendering>
-	<BkgChainColors>true</BkgChainColors>
+	<BkgChainColors>false</BkgChainColors>
 	<BkgSkyColor>
-		<Red>65535</Red>
-		<Green>65535</Green>
-		<Blue>65535</Blue>
+		<Red>63993</Red>
+		<Green>63993</Green>
+		<Blue>63993</Blue>
 	</BkgSkyColor>
 	<BkgEarthColor>
-		<Red>65535</Red>
-		<Green>65535</Green>
-		<Blue>65535</Blue>
+		<Red>60138</Red>
+		<Green>60138</Green>
+		<Blue>60138</Blue>
 	</BkgEarthColor>
 	<ContoursEnabled>true</ContoursEnabled>
 	<ContoursMode>1</ContoursMode>
@@ -42,8 +42,8 @@
 	<ShadowsOnASingleLevel>false</ShadowsOnASingleLevel>
 	<ShadowsOnThisLevel>0</ShadowsOnThisLevel>
 	<Show3DHotspotsOnly>false</Show3DHotspotsOnly>
-	<EngineExtraSettingsVers>2</EngineExtraSettingsVers>
+	<EngineExtraSettingsVers>3</EngineExtraSettingsVers>
 	<EngineExtraSettings>
-		<![CDATA[57570800CA0000001800000001010101000ACCCC0000000000002440CC01CCCCCCCCCCCC]]>
+		<![CDATA[57570000CA0000001800000001010101000000000000000000002440480074BD6D010000]]>
 	</EngineExtraSettings>
 </D3WindowStyle>

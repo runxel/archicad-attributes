@@ -16,16 +16,16 @@
 		<Blue>0</Blue>
 	</MonochromeContourRGB>
 	<BkgAsInPhotorendering>false</BkgAsInPhotorendering>
-	<BkgChainColors>true</BkgChainColors>
+	<BkgChainColors>false</BkgChainColors>
 	<BkgSkyColor>
-		<Red>65535</Red>
-		<Green>65535</Green>
-		<Blue>65535</Blue>
+		<Red>63993</Red>
+		<Green>63993</Green>
+		<Blue>63993</Blue>
 	</BkgSkyColor>
 	<BkgEarthColor>
-		<Red>65535</Red>
-		<Green>65535</Green>
-		<Blue>65535</Blue>
+		<Red>60138</Red>
+		<Green>60138</Green>
+		<Blue>60138</Blue>
 	</BkgEarthColor>
 	<ContoursEnabled>true</ContoursEnabled>
 	<ContoursMode>1</ContoursMode>
