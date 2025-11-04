@@ -1,0 +1,5 @@
+[format]
+# Use tabs instead of 4 space indentation.
+indent-style = "tab"
+# Use `\n` line endings for all files
+line-ending = "cr-lf"

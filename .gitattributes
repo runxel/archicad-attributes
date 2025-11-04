@@ -1,0 +1,19 @@
+# .gitattributes
+# default behavior, in case people don't have core.autocrlf set
+* text=auto
+
+# gdl files should display properly everywhere
+*.gdl  text eol=crlf
+
+# truly binary; should not be modified
+*.png  binary
+*.jpg  binary
+*.gsm  binary
+
+# proper json support ;)
+*.json linguist-language=JSON5
+
+# exlude from statistics
+test/*  linguist-vendored
+*.fish  linguist-vendored
+*.sh    linguist-vendored
